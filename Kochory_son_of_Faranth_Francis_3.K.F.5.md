@@ -1,7 +1,7 @@
 # Kochory(son of Faranth/Francis 3.K.F.5)
 
 - Branch : [Branch 3](Branch_3.md)
-- Father : [Vathan](Vathan_son_of_Varuth_3.K.F.3-2.md)
+- Father : [Vathan](Vathan_son_of_Varuth_3.K.F.3.md)
 - Brothers: [Mighel(Michael)](Mighel_Michael_son_of_Faranth_Francis_3.K.F.5.md) , [Kochory](Kochory_son_of_Faranth_Francis_3.K.F.5.md)
 - Childrens: 1.-----, 2.----- , 3.------ , 4.----- , 5. Clara , 6. [Vasthyan](Vasthyan_son_of_Kochory_3.K.F.20-2.md) , 7. Kathreena.
 

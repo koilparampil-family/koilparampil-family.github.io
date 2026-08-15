@@ -1,7 +1,7 @@
 # K.G.Kunjukunju(son of K.S.Gabriel 3.K.F.101)
 
 - Branch : [Branch 3](Branch_3.md)
-- Father: [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28-2.md)
+- Father: [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md)
 - Brothers & Sisters : [Thressya](Thressya_daughter_of_K.S.Gabriel_3.K.F.101.md) , [K.G.Kunjappan](K.G.Varghese_son_of_K.S.Gabriel_3.K.F.101-2.md) , [K.G.Kuttappan](K.G.Josep_son_of_K.S.Gabriel_3.K.F.101.md) , [K.G.Kunjukunju](K.G.Kunjukunju_son_of_K.S.Gabriel_3.K.F.101-2.md) , [K.G.Baby John](K.G.Baby_John_son_of_K.S.Gabriel_3.K.F.101-2.md)
 - Childrens : Pamela , Sheeba , Shaji
 

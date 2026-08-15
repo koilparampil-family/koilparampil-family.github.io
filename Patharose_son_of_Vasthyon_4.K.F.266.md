@@ -2,7 +2,7 @@
 
 - Branch : [Branch 4](Branch_4.md)
 - Father : [Vasthyon](Vasthyon_son_of_Thoma_4.K.F.265.md)
-- Brothers : [Kochanthira](Kochanthira_son_of_Vasthyon_4.K.F.266.md) , [Ouseph](Ouseph_son_of_Vasthyon_4.K.F.266-2.md) , [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md) , [Lonan](Lonan_son_of_Vasthyon_4.K.F.266-2.md)
+- Brothers : [Kochanthira](Kochanthira_son_of_Vasthyon_4.K.F.266.md) , [Ouseph](Ouseph_son_of_Vasthyon_4.K.F.266-2.md) , [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md) , [Lonan](Lonan_son_of_Vasthyon_4.K.F.266.md)
 - Children : Plameena , K.P.Plameena , [K.P Joseph](K.P_Joseph_son_of_Pathrose.md) , [Michael](Michael_son_of_Pathrose.md) , [K.P.Peeter](K.P.Peeter_son_of_Pathrose.md) , [K.P.Sebastian](K.P.Sebastian_son_of_Pathrose.md)
 
 ---

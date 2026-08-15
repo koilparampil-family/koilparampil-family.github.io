@@ -2,7 +2,7 @@
 
 - [Branch 2](Branch_2.md)
 
-[K.C. Ouseph](K.C._Ouseph_son_of_CHERIYAN_2.K.F.1.md) , [K.O.Varkey(Varghese)](Varkey_son_of_K.C.Ouseph.md) , [Poulose](Poulose_son_of_2.K.F.3_K.O.Ceriyan.md) , [Mariyam](Mariyam_son_of_2.K.F.3_K.O.Ceriyan.md) , [K.C.Pyely](K.C.Pyely_son_of_CHERIYAN_2.K.F.1.md) , [Kuruvila](Kuruvila_son_of_K.C.PYELY_2.K.F.39.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_CHERIYAN_2.K.F.1.md) , [Varghese](Varghese_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Cheriyan](Cheriyan_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Jose](Jose_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [K.C. Varkey](K.C._Varkey_son_of_CHERIYAN_2.K.F.1.md) , [K.V.Cheriyan](Cheriyan_son_of_2.K.F.83_K.C.Varkey.md) , [K.V.Joseph](Joseph_son_of_2.K.F.83_K.C.Varkey.md) , [K.C. Antony](K.C._Antony_son_of_CHERIYAN_2.K.F.1.md)
+[K.C. Ouseph](K.C._Ouseph_son_of_CHERIYAN_2.K.F.1.md) , [K.O.Varkey(Varghese)](Varkey_son_of_K.C.Ouseph.md) , [Poulose](Poulose_son_of_2.K.F.3_K.O.Ceriyan.md) , [Mariyam](Mariyam_son_of_2.K.F.3_K.O.Ceriyan.md) , [K.C.Pyely](K.C.Pyely_son_of_CHERIYAN_2.K.F.1.md) , [Kuruvila](Kuruvila_son_of_K.C.Pyely_2.K.F.39.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1.md) , [Varghese](Varghese_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Cheriyan](Cheriyan_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Jose](Jose_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1.md) , [K.V.Cheriyan](Cheriyan_son_of_2.K.F.83_K.C.Varkey.md) , [K.V.Joseph](Joseph_son_of_2.K.F.83_K.C.Varkey.md) , [K.C. Antony](K.C._Antony_son_of_CHERIYAN_2.K.F.1.md)
 
 ---
 
@@ -19,7 +19,7 @@ G.10.
 3.  Thresya (2.K.F.124) 1914(2.K.F.123).
 4.  Ealy 1916 (2.K.F.124).
 
-![k a cherian](images/0/07/K_a_cherian_.jpg) K.A.Cheriyan Family
+![k a cherian](images/0/07/K_a_cherian.jpg) K.A.Cheriyan Family
 
 2.K.F.109/G10(1)K.A.CHERIYAN 1910--30.9.1999 [2.T.F.108] married Rosamma 1920--30.4.1998. daughter of Varkey Manimala, Kulasekharamangalam, Vaikom.
 

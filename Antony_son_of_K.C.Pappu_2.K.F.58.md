@@ -1,7 +1,7 @@
 # Antony (son of K.C.Pappu 2.K.F.58
 
 - Branch : [Branch 2](Branch_2.md)
-- Grand Father : [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1-2.md)
+- Grand Father : [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1.md)
 - Brothers & Sisters :[Antony](Antony_son_of_K.C.Pappu_2.K.F.58.md) , Mary , [Varghese](Varghese_son_of_K.C.Pappu_2.K.F.58.md) , [Cheriyan](Cheriyan_son_of_K.C.Pappu_2.K.F.58.md) , [Jose](Jose_son_of_K.C.Pappu_2.K.F.58.md)
 
 ---

@@ -2,9 +2,9 @@
 
 [Branch 5](Branch_5.md)
 
-[Vasthyon](Vasthyon_son_of_OUSEPH_5_K.F.1.md),[Kochuvava](Kochuvava_son_of_OUSEPH_5_K.F.1.md),[Vaishyan](Vaishyan_son_of_OUSEPH_5_K.F.1.md),[Thoma](Thoma_son_of_OUSEPH_5_K.F.1.md)
+[Vasthyon](Vasthyon_son_of_Ouseph_5_K.F.1.md),[Kochuvava](Kochuvava_son_of_Ouseph_5_K.F.1.md),[Vaishyan](Vaishyan_son_of_Ouseph_5_K.F.1.md),[Thoma](Thoma_son_of_Ouseph_5_K.F.1.md)
 
-[Ponchi](Ponchi_son_of_VISENTHY_5.K.F.3.md),[Kunjuvareethu](Kunjuvareethu_son_of_VISENTHY_5.K.F.3.md),[Vathy](Vathy_son_of_VISENTHY_5.K.F.3.md)
+[Ponchi](Ponchi_son_of_Visenthy_5.K.F.3.md),[Kunjuvareethu](Kunjuvareethu_son_of_Visenthy_5.K.F.3.md),[Vathy](Vathy_son_of_VISENTHY_5.K.F.3.md)
 
 ---
 
@@ -14,8 +14,8 @@
 
 G10.
 
-1.  [Ponchi](Ponchi_son_of_VISENTHY_5.K.F.3.md)1836(5.K.F.4).
-2.  [Kunjuvareethu](Kunjuvareethu_son_of_VISENTHY_5.K.F.3.md)(Kochuvarky)1838(5.K.F.45).
+1.  [Ponchi](Ponchi_son_of_Visenthy_5.K.F.3.md)1836(5.K.F.4).
+2.  [Kunjuvareethu](Kunjuvareethu_son_of_Visenthy_5.K.F.3.md)(Kochuvarky)1838(5.K.F.45).
 3.  [Vathy](Vathy_son_of_VISENTHY_5.K.F.3.md)(Vasthyon) 1840(5.K.F.98).
 
 5.K.F.98/G10(3)VATHY (Vasthyon)[5.T.F.3] married Annamma daughter of Ulvedath Athipozhiyil at Kattiparambu MANASSERY and settled their.
@@ -24,7 +24,7 @@ G11.
 
 1.  [Visenthy](Visenthy_son_of_VATHY_Vasthyon_5.K.F.98.md)(Vincent)(5.K.F.99).
 2.  [Ouseppachan](Ouseppachan_son_of_VATHY_Vasthyon_5.K.F.98.md)(Joseph). (5.K.F.184).
-3.  [Ulvedath](Ulvedath_son_of_VATHY_Vasthyon_5.K.F.98.md)(Albert)(5.K.F.219).
+3.  [Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98.md)(Albert)(5.K.F.219).
 
 5.K.F.99/G11(1).K.V. VISENTHY (Vincent)[5.T.F.98] married Ealia daughter of Mikhel (Michael) Arackal at Kandakadavu and the family settled at Kannamali.
 

@@ -13,7 +13,7 @@
 G8.
 
 1.  Mighel (Michael)(3.K.F.6).
-2.  [KOCHORY](KOCHORY_son_of_FARANTH_3.K.F.5.md)(3.K.F.20).
+2.  [KOCHORY](Kochory_son_of_Faranth_3.K.F.5.md)(3.K.F.20).
 
 By the property division between Mighel and Kochory grant father(Appappen). Miguel Appappen got the family house. Then Kochory Appappen brought the Vengassery property situated at the northwestern side of the family house and Shifted with family there, by constructing a house in that property built out of wood in addition, beautifully carved.
 
@@ -23,7 +23,7 @@ By the property division between Mighel and Kochory grant father(Appappen). Migu
 
 <!-- -->
 
-- **[KOCHORY](KOCHORY_son_of_FARANTH_3.K.F.5.md)**(3.K.F.20).
+- **[KOCHORY](Kochory_son_of_Faranth_3.K.F.5.md)**(3.K.F.20).
 
 <!-- -->
 

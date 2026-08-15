@@ -2,7 +2,7 @@
 
 - Branch : [Branch 4](Branch_4.md)
 - Father : [Vasthyon](Vasthyon_son_of_Thoma_4.K.F.265.md)
-- Brothers : [Kochanthira](Kochanthira_son_of_Vasthyon_4.K.F.266.md) , [Ouseph](Ouseph_son_of_Vasthyon_4.K.F.266-2.md) , [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md) , [Lonan](Lonan_son_of_Vasthyon_4.K.F.266-2.md)
+- Brothers : [Kochanthira](Kochanthira_son_of_Vasthyon_4.K.F.266.md) , [Ouseph](Ouseph_son_of_Vasthyon_4.K.F.266-2.md) , [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md) , [Lonan](Lonan_son_of_Vasthyon_4.K.F.266.md)
 - Children : Thoma , David , Antony , Jusappy
 
 ---

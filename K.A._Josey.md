@@ -44,7 +44,7 @@ G.13.
 5.  [K.A. John Edison](K.A._John_Edison.md) (3.K.F.258)
 6.  [Clara Clementine(Kusumum)](Clara_Clementine_Kusumum.md)(3.K.F.259)
 7.  [K.A. Francis Cherian/Ponnappan](K.A._Francis_Cherian_Ponnappan.md) (3.K.F.260)
-8.  [K.A. Joseph (Josey)](K.A._Joseph_Josey.md)(3.K.F.261)
+8.  [K.A. Joseph (Josey)](K.A._Josey.md)(3.K.F.261)
 9.  [K.A. Jacob Louis George (George kutty)](K.A._Jacob_Louis_George_George_kutty.md) (3.K.F.262)
 
 ---

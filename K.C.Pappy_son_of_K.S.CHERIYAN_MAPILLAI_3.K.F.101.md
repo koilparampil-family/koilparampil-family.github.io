@@ -8,7 +8,7 @@
 
 <!-- -->
 
-- [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)
+- [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)
 
 ---
 
@@ -18,11 +18,11 @@
 
 G11.
 
-1.  [K.C.PaulChinnappan](K.C.Paul_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md))(3.K.F.183).
-2.  [Kunjukun](Kunjukun_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md)(Sebastin)(3.K.F.188).
+1.  [K.C.PaulChinnappan](K.C.Paul_son_of_K.S.Cheriyan_Mapillai_3.K.F.101.md))(3.K.F.183).
+2.  [Kunjukun](Kunjukun_son_of_K.S.Cheriyan_Mapillai_3.K.F.101.md)(Sebastin)(3.K.F.188).
 3.  Ponnamma and Eapachan(died in infancy)
 4.  [K.C.Pappy](K.C.Pappy_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md)(Joseph) (3.K.F.190).
-5.  [Kunjannamma](Kunjannamma_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md)(3.K.F.194)
+5.  [Kunjannamma](Kunjannamma_son_of_K.S.Cheriyan_Mapillai_3.K.F.101.md)(3.K.F.194)
 6.  [K.C.Eapen](K.C.Eapen_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md)3.K.F.199).
 7.  [K.C.Ponnappan](K.C.Ponnappan_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md)(K.C.Varghese)(3.K.F 208).
 8.  Kanakamma(Rev.Sr.Laura)(3.K.210).
@@ -50,7 +50,7 @@ G13.
 
 ---
 
-- [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)
+- [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)
 
 <!-- -->
 

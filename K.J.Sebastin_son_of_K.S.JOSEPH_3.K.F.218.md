@@ -8,7 +8,7 @@
 
 <!-- -->
 
-- [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)
+- [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)
 
 ---
 
@@ -29,11 +29,11 @@ G.11.
 
 1.  Thankachi (who died at the age of 21 by typhoid).
 2.  [K.J.Jacob](K.J.Jacob_son_of_K.S.JOSEPH_3.K.F.218.md)(Ambi)(3.K.F.224).
-3.  [Annamma](Annamma_son_of_K.S.JOSEPH_3.K.F.218.md)(Chellamma)(3.K.F.232).
-4.  [Elzabeth](Elzabeth_son_of_K.S.JOSEPH_3.K.F.218.md)(Sarojini)(3.K.F.240).
-5.  [Jainamma](Jainamma_son_of_K.S.JOSEPH_3.K.F.218.md)(Pappama)(3.K.F.244).
-6.  [Juliet](Juliet_son_of_K.S.JOSEPH_3.K.F.218.md)(Kunjuthankam)(3.K.F.247).
-7.  [Kochurani](Kochurani_son_of_K.S.JOSEPH_3.K.F.218.md)(3.Ma.F.250).
+3.  [Annamma](Annamma_son_of_K.S.Joseph_3.K.F.218.md)(Chellamma)(3.K.F.232).
+4.  [Elzabeth](Elzabeth_son_of_K.S.Joseph_3.K.F.218.md)(Sarojini)(3.K.F.240).
+5.  [Jainamma](Jainamma_son_of_K.S.Joseph_3.K.F.218.md)(Pappama)(3.K.F.244).
+6.  [Juliet](Juliet_son_of_K.S.Joseph_3.K.F.218.md)(Kunjuthankam)(3.K.F.247).
+7.  [Kochurani](Kochurani_son_of_K.S.Joseph_3.K.F.218.md)(3.Ma.F.250).
 
 3.K.F.220/G11(2)**K.J.SEBASTIN (KUNJAPPAN)**[3.T.F.218] 1916-2.10.1954 Saturday. After education, he worked in Bombay, Jabalpur then he returned at home and he stayed a year in his Uncle K.S. Antony's house, then he started photography, his father's profession. He married Sosamma (Tresa)(2.1.1928-7.8.1997) daughter of Ouseppachan and Rageena, Charankattil (Puthenvettil) Chennaveliel. Kunjappan died at the age of 36 and Sosamma died at the age of 69.
 
@@ -67,7 +67,7 @@ G13.
 
 ---
 
-- [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)
+- [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)
 
 <!-- -->
 

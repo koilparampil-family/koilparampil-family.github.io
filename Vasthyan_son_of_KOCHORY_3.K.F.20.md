@@ -16,14 +16,14 @@
 
 G10.
 
-1.  [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.Ch.F.66).
-2.  [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.K.F.101).
-3.  [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.To.F.123).
-4.  [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.Ar.F.136).
-5.  [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.K.F.182)
-6.  [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.K.F.217).
-7.  [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.K.F.218).
-8.  [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)(3.K.F.254).
+1.  [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.Ch.F.66).
+2.  [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.K.F.101).
+3.  [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.To.F.123).
+4.  [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.Ar.F.136).
+5.  [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.K.F.182)
+6.  [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.K.F.217).
+7.  [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md)(3.K.F.218).
+8.  [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)(3.K.F.254).
 
 3.Ch.F.66/G10(1)MARGARITHA [3.T.F.28&51] 1873--1950 married Pethrukutty Charankattu (Pandarapattathil) Chennavely. He was a wealthy and respectable gentleman. had two sons and four daughters.
 

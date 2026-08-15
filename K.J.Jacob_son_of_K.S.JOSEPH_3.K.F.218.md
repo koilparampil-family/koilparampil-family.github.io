@@ -8,7 +8,7 @@
 
 <!-- -->
 
-- [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)
+- [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)
 
 ---
 
@@ -29,11 +29,11 @@ G.11.
 
 1.  Thankachi (who died at the age of 21 by typhoid).
 2.  [K.J.Jacob](K.J.Jacob_son_of_K.S.JOSEPH_3.K.F.218.md)(Ambi)(3.K.F.224).
-3.  [Annamma](Annamma_son_of_K.S.JOSEPH_3.K.F.218.md)(Chellamma)(3.K.F.232).
-4.  [Elzabeth](Elzabeth_son_of_K.S.JOSEPH_3.K.F.218.md)(Sarojini)(3.K.F.240).
-5.  [Jainamma](Jainamma_son_of_K.S.JOSEPH_3.K.F.218.md)(Pappama)(3.K.F.244).
-6.  [Juliet](Juliet_son_of_K.S.JOSEPH_3.K.F.218.md)(Kunjuthankam)(3.K.F.247).
-7.  [Kochurani](Kochurani_son_of_K.S.JOSEPH_3.K.F.218.md)(3.Ma.F.250).
+3.  [Annamma](Annamma_son_of_K.S.Joseph_3.K.F.218.md)(Chellamma)(3.K.F.232).
+4.  [Elzabeth](Elzabeth_son_of_K.S.Joseph_3.K.F.218.md)(Sarojini)(3.K.F.240).
+5.  [Jainamma](Jainamma_son_of_K.S.Joseph_3.K.F.218.md)(Pappama)(3.K.F.244).
+6.  [Juliet](Juliet_son_of_K.S.Joseph_3.K.F.218.md)(Kunjuthankam)(3.K.F.247).
+7.  [Kochurani](Kochurani_son_of_K.S.Joseph_3.K.F.218.md)(3.Ma.F.250).
 
 3.K.F.224/G11(4)**K.J.JACOB (AMBI)**[T.3.F.218] 18.9.1923 to 20.12.1980. After his education he served in military, and then in railways. While he was working in Jabalpur Ordinance factory, the sickness of his elder brother Kunjappan who has been working in Mumbai, forced him to resign the job at Jabalpur and accompanied with his brother Kunjappan to return home stayed for a while at home and then he went back to the Jabalpur and started a watch repairing shop. He married Evamma 5.10.1930[T.F.254] the marriage was on 3-8-1949 at Nagapur Cathedral, by his Uncle Rev.Fr.Sebastin Arackal. He after his return from North India started a watch repairing shop near the clock tower at Chinnakkada, Kollam. When the shop in that area was dismantled, he brought a plot near the Arthunkal, Chambakkat junction and started a saw mill (Joslin industries (13.9.1967) here. This might be the first industrial attempt in Arthunkal. At last he severely suffered with blood pressure. He took his last breath in 20th Dec 1980 in the Kottiyam Hospital at the age of 57. Ph. 0478 257 2543.
 
@@ -101,7 +101,7 @@ G13.
 
 ---
 
-- [Margarita](Margarita_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_VASTHYAN_SEBASTIN_3.K.F.28.md)
+- [Margarita](Margarita_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S._Antony_son_of_Vasthyan_3.K.F.28.md)
 
 <!-- -->
 

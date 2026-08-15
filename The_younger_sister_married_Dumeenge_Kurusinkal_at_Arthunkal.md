@@ -3,7 +3,7 @@
 - Branch : [Branch 3](Branch_3.md)
 - Father : [Kochory](Kochory_son_of_Faranth_Francis_3.K.F.5.md)
 - Brothers: 1.-----, 2.----- , 3.------ , 4.----- , 5. Clara , 6. [Vasthyan](Vasthyan_son_of_Kochory_3.K.F.20-2.md) , 7. Kathreena.
-- Childrens : [Margarita](Margarita_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28-2.md) , [Mariyamma](Mariyamma_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyav_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_Vasthyav_Sebastin_3.K.F.28.md)
+- Childrens : [Margarita](Margarita_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28.md) , [Mariyamma](Mariyamma_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyav_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_Vasthyav_Sebastin_3.K.F.28.md)
 
 3.Ku.F.59/G8(2)The younger sister[3.T.F.28A] of the above mentioned Karumancherry George(chochi), married by Kurishunkal Dummeengu Arithunkal (was the brother-in-Low of Koilparampil Kochory Vasthyan) had five children namely,
 

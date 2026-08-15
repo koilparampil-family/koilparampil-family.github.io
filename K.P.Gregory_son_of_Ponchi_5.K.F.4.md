@@ -1,7 +1,7 @@
 # K.P.Gregory (son of Ponchi (5.K.F.4)
 
 - Branch : [Branch 5](Branch_5.md)
-- Father : [Ponchi](Ponchi_son_of_Visenthy_5.K.F.3-2.md)
+- Father : [Ponchi](Ponchi_son_of_Visenthy_5.K.F.3.md)
 - Brothers & Sisters : K.P.Bastin , [K.P.Gregory](K.P.Gregory_son_of_Ponchi_5.K.F.4.md) , Augustin , Vava , Maryakutty , Annamma
 - Childrens : [Ousepachan](Ousepachan_son_of_K.P.Gregory_5.K.F.6.md) , [Chavaro](Chavaro_son_of_K.P.Gregory_5.K.F.6.md) , [Vasthyonkunju](Vasthyonkunju_son_of_K.P.Gregory_5.K.F.6.md) , [Kunjamma](Kunjamma_daughter_of_K.P.Gregory_5.K.F.6.md)
 

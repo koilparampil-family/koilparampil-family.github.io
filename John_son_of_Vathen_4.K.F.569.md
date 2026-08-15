@@ -3,7 +3,7 @@
 - Branch : [Branch 4](Branch_4.md)
 - Father : [Vathan](Vathan_Son_of_Peeter4.K.F.474.md)
 - Brothers : [John](John_son_of_Vathen_4.K.F.569.md) , [Thomas](Thomas_son_of_Vathen_4.K.F.569.md) , [Jusay](Jusay_son_of_Vathen_4.K.F.569.md)
-- Children : [Michael](Michael_son_of_K.V.John_4.T.F.541-2.md) , [Thomas](Thomas_son_of_K.V.John_4.T.F.541-2.md)
+- Children : [Michael](Michael_son_of_K.V.John_4.T.F.541.md) , [Thomas](Thomas_son_of_K.V.John_4.T.F.541.md)
 
 ---
 
@@ -13,8 +13,8 @@
 
 G13.
 
-1.  [Michael](Michael_son_of_K.V.John_4.T.F.541-2.md)(Sammykutty)(4.K.F.543).
-2.  [Thomas](Thomas_son_of_K.V.John_4.T.F.541-2.md)(4.K.F.559).
+1.  [Michael](Michael_son_of_K.V.John_4.T.F.541.md)(Sammykutty)(4.K.F.543).
+2.  [Thomas](Thomas_son_of_K.V.John_4.T.F.541.md)(4.K.F.559).
 
 4.K.F.543/G13(1)K.J.MICHAEL (Sammykutty) [4.T.F.542] married Threasyamma, daughter of Augstine (Augsteenju) Anchuthaical at Challanam.
 

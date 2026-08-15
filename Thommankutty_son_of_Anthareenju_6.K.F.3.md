@@ -2,7 +2,7 @@
 
 - Branch : [Branch 6](Branch_6.md)
 - Grand Father : [VATHY](VATHY.md)
-- Brothers: [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md) , [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md)
+- Brothers: [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3.md) , [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md)
 - Childrens : Thersya
 
 ---

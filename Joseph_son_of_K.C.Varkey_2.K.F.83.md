@@ -1,7 +1,7 @@
 # Joseph (son of K.C.Varkey 2.K.F.83)
 
 - Branch : [Branch 2](Branch_2.md)
-- Father : [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1-2.md)
+- Father : [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1.md)
 - Brothers & Sisters : Kathrey , [K.V.Cheriyan](Cheriyan_son_of_K.C.Varkey_2.K.F.83.md) , [K.V.Joseph](Joseph_son_of_K.C.Varkey_2.K.F.83.md)
 - Childrens : Mariyamma , Ouseph , Rossamma , Varkachan , Annamma , Thressyamma
 

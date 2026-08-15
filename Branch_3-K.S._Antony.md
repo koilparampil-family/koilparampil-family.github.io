@@ -40,7 +40,7 @@ Fig.1 standing : Kusumum, helper Anna, Thankachan, Evamma, Kochappan, helper Met
 
 7.[K.A. Francis Cherian/Ponnappan](K.A._Francis_Cherian_Ponnappan.md) (3.K.F.260)
 
-8.[K.A. Joseph (Josey)](K.A._Joseph_Josey.md)(3.K.F.261)
+8.[K.A. Joseph (Josey)](K.A._Josey.md)(3.K.F.261)
 
 9.[K.A. Jacob Louis George (George kutty)](K.A._Jacob_Louis_George_George_kutty.md) (3.K.F.262)
 

@@ -4,9 +4,9 @@
 
 KochuVathy--\> Anthareenju
 
-Anthareenju--\> [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md) , [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md)
+Anthareenju--\> [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3.md) , [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md)
 
-[Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md)--\> Eassamma , Pascal , Rosa , [Vasthyon](Vasthyon_son_of_Kunchu_6.K.F.4-2.md) , [Anthreenju](Anthreenju_son_of_Kunchu_6.K.F.4-2.md) , [Yohannan](Yohannan_son_of_Kunchu_6.K.F.4-2.md) , [Changy](Changy_son_of_Kunchu_6.K.F.4A-2.md) ,[KunjanVaishan](KunjanVaishan_son_of_Kunchu_6.K.F.4A-2.md)
+[Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3.md)--\> Eassamma , Pascal , Rosa , [Vasthyon](Vasthyon_son_of_Kunchu_6.K.F.4-2.md) , [Anthreenju](Anthreenju_son_of_Kunchu_6.K.F.4-2.md) , [Yohannan](Yohannan_son_of_Kunchu_6.K.F.4-2.md) , [Changy](Changy_son_of_Kunchu_6.K.F.4A-2.md) ,[KunjanVaishan](KunjanVaishan_son_of_Kunchu_6.K.F.4A-2.md)
 
 [Vasthyon](Vasthyon_son_of_Kunchu_6.K.F.4-2.md)--\> [Kochanthony](Kochanthony_son_of_Vasthyon_6.K.F.5.md) , [K.V.Ouseph](K.V.Ouseph_son_of_Vasthyon_6.K.F.5.md) , [Pathrose](Pathrose_son_of_Vasthyon_6.K.F.5.md)
 

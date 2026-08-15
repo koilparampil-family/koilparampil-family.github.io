@@ -45,4 +45,4 @@ G13.
 
 G13.
 
-1.  [<http://stefin.bizhat.com>\| Stefin Steephan\](Antony Varghese) 19.11.2001 Monday
+1.  [Stefin Steephan](http://stefin.bizhat.com) (Antony Varghese) 19.11.2001 Monday

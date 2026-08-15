@@ -4,7 +4,32 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{% if page.title and page.url != "/" %}{{ page.title }} &middot; {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-{% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}
+{%- comment -%}
+  Each page describes itself, using its own opening text. Someone who searches
+  Google for an ancestor's name then sees that person's details in the result,
+  rather than the same site-wide sentence repeated on every page. Pages with no
+  content yet fall back to the site description.
+{%- endcomment -%}
+{%- assign page_text = page.content | markdownify | strip_html | normalize_whitespace | strip -%}
+{%- if page_text.size > 60 -%}
+  {%- assign meta_desc = page_text | truncate: 165 -%}
+{%- else -%}
+  {%- assign meta_desc = site.description -%}
+{%- endif -%}
+<meta name="description" content="{{ meta_desc | escape }}">
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- Shared links (WhatsApp, Facebook) show a title, blurb and the family crest. -->
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ meta_desc | escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="{% if page.url == '/' %}website{% else %}article{% endif %}">
+<meta property="og:image" content="{{ site.logo | absolute_url }}">
+<meta name="twitter:card" content="summary">
+
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="any">
+<link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | relative_url }}">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
 
@@ -183,8 +208,14 @@ img { max-width: 100%; height: auto; }
 main img { cursor: zoom-in; }
 main a img { cursor: pointer; }
 
-/* The book cover is 600px wide and dominates the front page at full size. */
-main img[src$="Bookcover_1a_.jpg"] {
+/* The book cover is 600px wide and dominates the front page at full size, so
+   it is halved and centred on its own line. "clear" matters: the drop cap on
+   the paragraph above is a left float, and without clearing it the cover is
+   centred in what is left beside the float rather than on the page. The
+   selector is deliberately specific enough to outrank ".page :first-child",
+   which would otherwise strip the top margin. */
+main .page img[src$="Bookcover_1a.jpg"] {
+  display: block; clear: both; margin: 2em auto;
   width: 300px; border: 1px solid var(--rule); border-radius: 4px;
   box-shadow: var(--shadow);
 }

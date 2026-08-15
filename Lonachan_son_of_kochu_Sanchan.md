@@ -1,3 +1,3 @@
-# Lonachan(son of kochu Sanchan)
+# Lonachan (son of kochu Sanchan)
 
 

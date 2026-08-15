@@ -2,11 +2,11 @@
 
 [Branch 5](Branch_5.md)
 
-[Vasthyon](Vasthyon_son_of_OUSEPH_5_K.F.1.md),[Kochuvava](Kochuvava_son_of_OUSEPH_5_K.F.1.md),[Vaishyan](Vaishyan_son_of_OUSEPH_5_K.F.1.md),[Thoma](Thoma_son_of_OUSEPH_5_K.F.1.md)
+[Vasthyon](Vasthyon_son_of_Ouseph_5_K.F.1.md),[Kochuvava](Kochuvava_son_of_Ouseph_5_K.F.1.md),[Vaishyan](Vaishyan_son_of_Ouseph_5_K.F.1.md),[Thoma](Thoma_son_of_Ouseph_5_K.F.1.md)
 
 [Vathy](Vathy_son_of_VISENTHY_5.K.F.3.md)
 
-[Visenthy](Visenthy_son_of_VATHY_Vasthyon_5.K.F.98.md),[Ouseppachan](Ouseppachan_son_of_VATHY_Vasthyon_5.K.F.98.md),[Ulvedath](Ulvedath_son_of_VATHY_Vasthyon_5.K.F.98.md)
+[Visenthy](Visenthy_son_of_VATHY_Vasthyon_5.K.F.98.md),[Ouseppachan](Ouseppachan_son_of_VATHY_Vasthyon_5.K.F.98.md),[Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98.md)
 
 ---
 
@@ -18,7 +18,7 @@ G11.
 
 1.  [Visenthy](Visenthy_son_of_VATHY_Vasthyon_5.K.F.98.md)(Vincent)(5.K.F.99).
 2.  [Ouseppachan](Ouseppachan_son_of_VATHY_Vasthyon_5.K.F.98.md)(Joseph). (5.K.F.184).
-3.  [Ulvedath](Ulvedath_son_of_VATHY_Vasthyon_5.K.F.98.md)(Albert)(5.K.F.219).
+3.  [Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98.md)(Albert)(5.K.F.219).
 
 5.K.F.184/G11(2)**OUSEPPACHAN** [5.T.F.98] married Vavakutty (Clara) sister of Jussenju Charankattu (Thattupurackal) Chennavely. This family settled at Kannamaly.
 

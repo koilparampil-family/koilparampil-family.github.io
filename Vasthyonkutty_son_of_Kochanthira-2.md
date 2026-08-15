@@ -1,3 +1,0 @@
-# Vasthyonkutty (son of Kochanthira)
-
-

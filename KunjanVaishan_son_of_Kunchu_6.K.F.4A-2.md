@@ -1,7 +1,7 @@
 # KunjanVaishan(son of Kunchu 6.K.F.4A)
 
 - Branch : [Branch 6](Branch_6.md)
-- Father : [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md)
+- Father : [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3.md)
 - Brothers & Sisters :[Vasthyon](Vasthyon_son_of_Kunchu_6.K.F.4-2.md) , Eassamma , Pascal , [Anthreenju](Anthreenju_son_of_Kunchu_6.K.F.4-2.md) , [Yohannan](Yohannan_son_of_Kunchu_6.K.F.4-2.md) , [Changy](Changy_son_of_Kunchu_6.K.F.4A-2.md) , Rosa , [KunjanVaishan](KunjanVaishan_son_of_Kunchu_6.K.F.4A-2.md)
 - Childrens : Ouseph , Anna , Thresya
 

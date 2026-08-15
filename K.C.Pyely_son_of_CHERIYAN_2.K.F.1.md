@@ -2,7 +2,7 @@
 
 - [Branch 2](Branch_2.md)
 
-[K.C. Ouseph](K.C._Ouseph_son_of_CHERIYAN_2.K.F.1.md) , [K.O.Varkey(Varghese)](Varkey_son_of_K.C.Ouseph.md) , [Poulose](Poulose_son_of_2.K.F.3_K.O.Ceriyan.md) , [Mariyam](Mariyam_son_of_2.K.F.3_K.O.Ceriyan.md) , [K.C.Pyely](K.C.Pyely_son_of_CHERIYAN_2.K.F.1.md) , [Kuruvila](Kuruvila_son_of_K.C.PYELY_2.K.F.39.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_CHERIYAN_2.K.F.1.md) , [Varghese](Varghese_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Cheriyan](Cheriyan_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Jose](Jose_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [K.C. Varkey](K.C._Varkey_son_of_CHERIYAN_2.K.F.1.md) , [K.V.Cheriyan](Cheriyan_son_of_2.K.F.83_K.C.Varkey.md) , [K.V.Joseph](Joseph_son_of_2.K.F.83_K.C.Varkey.md) , [K.C. Antony](K.C._Antony_son_of_CHERIYAN_2.K.F.1.md)
+[K.C. Ouseph](K.C._Ouseph_son_of_CHERIYAN_2.K.F.1.md) , [K.O.Varkey(Varghese)](Varkey_son_of_K.C.Ouseph.md) , [Poulose](Poulose_son_of_2.K.F.3_K.O.Ceriyan.md) , [Mariyam](Mariyam_son_of_2.K.F.3_K.O.Ceriyan.md) , [K.C.Pyely](K.C.Pyely_son_of_CHERIYAN_2.K.F.1.md) , [Kuruvila](Kuruvila_son_of_K.C.Pyely_2.K.F.39.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1.md) , [Varghese](Varghese_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Cheriyan](Cheriyan_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [Jose](Jose_son_of_2.K.F.58_K.C.Pappu_Cheriyan.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1.md) , [K.V.Cheriyan](Cheriyan_son_of_2.K.F.83_K.C.Varkey.md) , [K.V.Joseph](Joseph_son_of_2.K.F.83_K.C.Varkey.md) , [K.C. Antony](K.C._Antony_son_of_CHERIYAN_2.K.F.1.md)
 
 ---
 
@@ -13,7 +13,7 @@
 G.10.
 
 1.  Scaria (2.K.F.40)
-2.  [Kuruvila](Kuruvila_son_of_K.C.PYELY_2.K.F.39.md) (2.K.F.48)
+2.  [Kuruvila](Kuruvila_son_of_K.C.Pyely_2.K.F.39.md) (2.K.F.48)
 
 2.K.F.40/G10(1) K.P. SCARIA [2.T.F.39]married Ealy from Chenganda, Cherthala.
 

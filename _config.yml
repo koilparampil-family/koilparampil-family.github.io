@@ -17,6 +17,11 @@ title: Koilparampil Family
 description: Genealogy and history of the Koilparampil family, Kerala, India.
 logo: /logo/st_thoma.jpg
 
+# The site's own address. Needed so each page can state its canonical URL and
+# so the sitemap lists real links -- without it both come out relative and
+# search engines ignore them.
+url: https://koilparampil-family.github.io
+
 # Where the "Edit this page" link on every page sends people.
 repository: koilparampil-family/koilparampil-family.github.io
 branch: main
@@ -45,6 +50,9 @@ plugins:
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-titles-from-headings
+  #   sitemap  lists every page in /sitemap.xml so search engines can find all
+  #            of them; there is no other way in to most of these pages.
+  - jekyll-sitemap
 
 relative_links:
   enabled: true

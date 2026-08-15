@@ -2,7 +2,7 @@
 
 - Branch : [Branch 2](Branch_2.md)
 - Father : Cheriyan
-- Brothers & Sisters :[K.C. Ouseph](K.C._Ouseph_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Pyely](K.C.Pyely_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1-2.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1-2.md) , [K.C. Antony](K.C._Antony_son_of_Cheriyan_2.K.F.1-2.md) , Mary
+- Brothers & Sisters :[K.C. Ouseph](K.C._Ouseph_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Pyely](K.C.Pyely_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1.md) , [K.C. Antony](K.C._Antony_son_of_Cheriyan_2.K.F.1-2.md) , Mary
 - Childrens : Cheriyan , Kathareena , Thresya , Ealy
 
 ---
@@ -20,7 +20,7 @@ G.10.
 3.  Thresya (2.K.F.124) 1914(2.K.F.123).
 4.  Ealy 1916 (2.K.F.124).
 
-![k a cherian](images/0/07/K_a_cherian_.jpg) K.A.Cheriyan Family
+![k a cherian](images/0/07/K_a_cherian.jpg) K.A.Cheriyan Family
 
 2.K.F.109/G10(1)K.A.CHERIYAN 1910--30.9.1999 [2.T.F.108] married Rosamma 1920--30.4.1998. daughter of Varkey Manimala, Kulasekharamangalam, Vaikom.
 

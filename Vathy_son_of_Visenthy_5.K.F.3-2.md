@@ -1,9 +1,9 @@
 # Vathy(son of Visenthy (5.K.F.3)
 
 - Branch : [Branch 5](Branch_5.md)
-- Grandfather : [Vasthyon](Vasthyon_son_of_Ouseph_5_K.F.1-2.md)
-- Brothers & Sisters :[Ponchi](Ponchi_son_of_Visenthy_5.K.F.3-2.md) , [Kunjuvareethu](Kunjuvareethu_son_of_Visenthy_5.K.F.3-2.md) , [Vathy](Vathy_son_of_Visenthy_5.K.F.3-2.md)
-- Childrens : [Visenthy](Visenthy_son_of_Vathy_Vasthyon_5.K.F.98-2.md) , [Ouseppachan](Ouseppachan_son_of_Vathy_Vasthyon_5.K.F.98-2.md) , [Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98-2.md)
+- Grandfather : [Vasthyon](Vasthyon_son_of_Ouseph_5_K.F.1.md)
+- Brothers & Sisters :[Ponchi](Ponchi_son_of_Visenthy_5.K.F.3.md) , [Kunjuvareethu](Kunjuvareethu_son_of_Visenthy_5.K.F.3.md) , [Vathy](Vathy_son_of_Visenthy_5.K.F.3-2.md)
+- Childrens : [Visenthy](Visenthy_son_of_Vathy_Vasthyon_5.K.F.98-2.md) , [Ouseppachan](Ouseppachan_son_of_Vathy_Vasthyon_5.K.F.98-2.md) , [Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98.md)
 
 ---
 
@@ -15,7 +15,7 @@ G11.
 
 1.  [Visenthy](Visenthy_son_of_Vathy_Vasthyon_5.K.F.98-2.md)(Vincent)(5.K.F.99).
 2.  [Ouseppachan](Ouseppachan_son_of_Vathy_Vasthyon_5.K.F.98-2.md)(Joseph). (5.K.F.184).
-3.  [Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98-2.md)(Albert)(5.K.F.219).
+3.  [Ulvedath](Ulvedath_son_of_Vathy_Vasthyon_5.K.F.98.md)(Albert)(5.K.F.219).
 
 5.K.F.99/G11(1).K.V. VISENTHY (Vincent)[5.T.F.98] married Ealia daughter of Mikhel (Michael) Arackal at Kandakadavu and the family settled at Kannamali.
 

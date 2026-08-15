@@ -24,7 +24,7 @@ Anthey--\> [Thomman](Thomman_son_of_4.K.F.1_G3.Anthey.md)
 
 [Thoma](Thoma_son_of_Jusa_4.K.F.264.md)--\> [Vasthyon](Vasthyon_son_of_Thoma_4.K.F.265.md) , [Lonan](Lonan_son_of_Thoma_4.K.F.265.md) , [Jorus](Jorus_son_of_Thoma_4.K.F.265-2.md)
 
-[Vasthyon](Vasthyon_son_of_Thoma_4.K.F.265.md)--\> [Kochanthira (Andrews)](Kochanthira_son_of_Vasthyon_4.K.F.266.md) , [Ouseph](Ouseph_son_of_Vasthyon_4.K.F.266-2.md) , [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md) , [Lonan](Lonan_son_of_Vasthyon_4.K.F.266-2.md)
+[Vasthyon](Vasthyon_son_of_Thoma_4.K.F.265.md)--\> [Kochanthira (Andrews)](Kochanthira_son_of_Vasthyon_4.K.F.266.md) , [Ouseph](Ouseph_son_of_Vasthyon_4.K.F.266-2.md) , [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md) , [Lonan](Lonan_son_of_Vasthyon_4.K.F.266.md)
 
 [Patharose](Patharose_son_of_Vasthyon_4.K.F.266.md)--\> Plameena , K.P.Plameena , [K.P Joseph](K.P_Joseph_son_of_Pathrose.md) , [Michael](Michael_son_of_Pathrose.md) , [K.P.Peeter](K.P.Peeter_son_of_Pathrose.md) , [K.P.Sebastian](K.P.Sebastian_son_of_Pathrose.md)
 
@@ -44,6 +44,6 @@ Anthey--\> [Thomman](Thomman_son_of_4.K.F.1_G3.Anthey.md)
 
 [Vathan](Vathan_Son_of_Peeter4.K.F.474.md)--\> [John](John_son_of_Vathen_4.K.F.569.md) , [Thomas](Thomas_son_of_Vathen_4.K.F.569.md) , [Jusay](Jusay_son_of_Vathen_4.K.F.569.md)
 
-[John](John_son_of_Vathen_4.K.F.569.md)--\> [Michael](Michael_son_of_K.V.John_4.T.F.541-2.md) , [Thomas](Thomas_son_of_K.V.John_4.T.F.541-2.md)
+[John](John_son_of_Vathen_4.K.F.569.md)--\> [Michael](Michael_son_of_K.V.John_4.T.F.541.md) , [Thomas](Thomas_son_of_K.V.John_4.T.F.541.md)
 
 [Lonan](Lonan_Son_of_Michael_4.K.F.473.md)--\> [K.L.Andrew](K.L.Andrew_son_of_4.K.F.630_Lonan.md) , [K.L.Vasthiyon](Vasthiyon_son_of_4.K.F.630_Lonan.md) , [K.L.Jusay](K.L.Jusay_son_of_4.K.F.630_Lonan.md)

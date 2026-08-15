@@ -2,7 +2,7 @@
 
 - Branch : [Branch 2](Branch_2.md)
 - Father : [Cheriyan](Cheriyan_Branch_2.md)
-- Childrens :[K.C. Ouseph](K.C._Ouseph_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Pyely](K.C.Pyely_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1-2.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1-2.md) , [K.C. Antony](K.C._Antony_son_of_Cheriyan_2.K.F.1-2.md) , Mary
+- Childrens :[K.C. Ouseph](K.C._Ouseph_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Pyely](K.C.Pyely_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1.md) , [K.C. Antony](K.C._Antony_son_of_Cheriyan_2.K.F.1-2.md) , Mary
 
 ---
 
@@ -14,8 +14,8 @@ G9.
 
 1.  [K.C. Ouseph](K.C._Ouseph_son_of_Cheriyan_2.K.F.1-2.md)(2.K.F.2).
 2.  [K.C.Pyely](K.C.Pyely_son_of_Cheriyan_2.K.F.1-2.md)(2.K.F.39).
-3.  [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1-2.md)(2.K.F.57).
-4.  [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1-2.md)(2.K.F.83).
+3.  [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1.md)(2.K.F.57).
+4.  [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1.md)(2.K.F.83).
 5.  [K.C. Antony](K.C._Antony_son_of_Cheriyan_2.K.F.1-2.md)(2.K.F.108).
 6.  Mary (2.K.F.126).
 
