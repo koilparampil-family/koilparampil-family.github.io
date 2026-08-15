@@ -190,6 +190,7 @@ K. THOMMEN KOILPARAMPIL from Palayur, had settled at Makkekadavu at Manappuram),
 
 ![Koilparampil-Photo-1a](images/c/cf/Koilparampil-Photo-1a.jpg)
 
+
 ---
 
 This is the family wiki, kept as plain Markdown files so anyone can read
@@ -209,7 +210,7 @@ do not recognise can be left exactly as it is.
 Photographs live in the `images` folder and are shown with
 `![description](images/a/ab/Photo.jpg)`.
 
-## All pages (546)
+## All pages (547)
 
 ### #
 
@@ -317,6 +318,7 @@ Photographs live in the `images` folder and are shown with
 - [Contact Us](Contact_Us.md)
 - [Continue ...](Continue.md)
 - [Cornelious (son 0f Kochu-Kaippary 4.K.F.75)](Cornelious_son_0f_Kochu-Kaippary_4.K.F.75.md)
+- [Current events](Current_events.md)
 - [Cyril (son of Ouseppachan 5.K.F.184)](Cyril_son_of_Ouseppachan_5.K.F.184.md)
 
 ### D

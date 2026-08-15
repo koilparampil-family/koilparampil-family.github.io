@@ -9,6 +9,8 @@
 
 ## K.A.FRANCIS CHERIAN (PONNAPPAN)
 
+![cherian](images/e/e1/Cherian.jpg) Mr.& Mrs. Cherian.K.A
+
 Joseph Valentine and Celeena, of Mangalamuttathu, Kovilthottam, Kollam. The marriage was on 14-4-1971 Wednesday. Monamma is working as an Aganwadi teacher. Ph. 0478 257 1091.
 
 G.12.
