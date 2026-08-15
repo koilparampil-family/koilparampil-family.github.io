@@ -12,11 +12,23 @@
 #                          staring at raw Markdown, which is why page names are
 #                          slugged to characters that need no brackets.
 #   titles-from-headings   the "# Title" line becomes the page title
-#   default-layout         gives every page the theme's layout
 
 title: Koilparampil Family
 description: Genealogy and history of the Koilparampil family, Kerala, India.
-theme: jekyll-theme-primer
+
+# Every page gets the sidebar layout in _layouts/default.html. This is plain
+# Jekyll rather than a plugin, so it does not depend on anything GitHub might
+# change, and the Markdown files stay free of YAML headers.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+# Keep the "# Title" line visible in the page itself; it is only borrowed for
+# the browser tab.
+titles_from_headings:
+  strip_title: false
 
 # Addresses without a ".html" on the end: each page is built as its own
 # folder, so "Name.md" is served at "/Name/". Typing "/Name" works too --
@@ -28,7 +40,6 @@ plugins:
   - jekyll-readme-index
   - jekyll-relative-links
   - jekyll-titles-from-headings
-  - jekyll-default-layout
 
 relative_links:
   enabled: true

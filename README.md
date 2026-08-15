@@ -190,7 +190,6 @@ K. THOMMEN KOILPARAMPIL from Palayur, had settled at Makkekadavu at Manappuram),
 
 ![Koilparampil-Photo-1a](images/c/cf/Koilparampil-Photo-1a.jpg)
 
-
 ---
 
 This is the family wiki, kept as plain Markdown files so anyone can read
@@ -210,7 +209,9 @@ do not recognise can be left exactly as it is.
 Photographs live in the `images` folder and are shown with
 `![description](images/a/ab/Photo.jpg)`.
 
-## All pages (547)
+## All pages
+
+All 547 pages in the archive, in alphabetical order.
 
 ### #
 

@@ -1,0 +1,47 @@
+# The site menu, shown on every page.
+#
+# To add a page to the menu, add a line here with the file it points at.
+# To remove one, delete its two lines. To reorder, move them.
+# "path" must match the file name exactly, including capital letters.
+
+- title: Koilparampil Family
+  home: true
+
+- title: Family History
+  path: Family_History.md
+
+- title: Branch 1
+  path: Branch_1.md
+
+- title: Branch 2
+  path: Branch_2.md
+
+- title: Branch 3
+  path: Branch_3.md
+
+- title: Branch 4
+  path: Branch_4.md
+
+- title: Branch 5
+  path: Branch_5.md
+
+- title: Branch 6
+  path: Branch_6.md
+
+- title: Priests
+  path: Priests.md
+
+- title: Marriages
+  path: Marriages.md
+
+- title: Obituaries
+  path: Obituaries.md
+
+- title: KOFA
+  path: COFA.md
+
+- title: Current events
+  path: Current_events.md
+
+- title: Contact Us
+  path: Contact_Us.md
