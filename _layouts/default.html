@@ -38,13 +38,21 @@
 :root {
   --ink: #171717;
   --muted: #525252;
-  --faint: #8f8f8f;
+  /* --faint carries real text -- the footer line, the search placeholder, the
+     Esc badge -- so it has to clear 4.5:1 against the paper, not merely look
+     quiet. The old #8f8f8f managed 3.23:1, which is legible on a desk monitor
+     and not on a phone in Kerala sunlight. This is 5.38:1. */
+  --faint: #6e6a63;
   --rule: #e7e5e4;
   --paper: #ffffff;
   --panel: #fafaf9;
   --gold: #c9a227;
   --gold-soft: rgba(201, 162, 39, .12);
-  --link: #8f6b00;
+  /* 6.92:1, up from 4.92:1 -- the old value only just cleared the floor. */
+  --link: #7a5200;
+  /* The link underline used to be a gold literal here, so it stayed gold no
+     matter what --link was set to. Tied to the link colour instead. */
+  --link-underline: rgba(122, 82, 0, .38);
   --on-ink: #ffffff;
   /* Wikipedia's own pairing: a quiet serif for headings over the reader's
      system sans for text. Linux Libertine is the Wikipedia wordmark face and
@@ -64,13 +72,15 @@
   :root {
     --ink: #f5f5f4;
     --muted: #a8a29e;
-    --faint: #78716c;
+    /* 6.44:1 on the dark paper; the old #78716c gave 4.08:1. */
+    --faint: #9a938a;
     --rule: #2b2927;
     --paper: #0c0c0b;
     --panel: #141412;
     --gold: #d9b453;
     --gold-soft: rgba(217, 180, 83, .13);
     --link: #e0bd5f;
+    --link-underline: rgba(224, 189, 95, .38);
     --on-ink: #0c0c0b;
     --glass: rgba(20, 20, 18, .55);
     --blue: #2563eb;
@@ -282,7 +292,7 @@ h2 {
 h3 { font-size: 1.28em; }
 h4 { font-size: 1.1em; }
 
-a { color: var(--link); text-decoration: none; border-bottom: 1px solid rgba(201, 162, 39, .35); transition: color .18s ease, border-color .18s ease; }
+a { color: var(--link); text-decoration: none; border-bottom: 1px solid var(--link-underline); transition: color .18s ease, border-color .18s ease; }
 a:hover { color: var(--ink); border-bottom-color: var(--gold); }
 
 img { max-width: 100%; height: auto; }
