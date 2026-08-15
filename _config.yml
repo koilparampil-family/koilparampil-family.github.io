@@ -18,6 +18,11 @@ title: Koilparampil Family
 description: Genealogy and history of the Koilparampil family, Kerala, India.
 theme: jekyll-theme-primer
 
+# Addresses without a ".html" on the end: each page is built as its own
+# folder, so "Name.md" is served at "/Name/". Typing "/Name" works too --
+# GitHub redirects it to the folder.
+permalink: pretty
+
 plugins:
   - jekyll-optional-front-matter
   - jekyll-readme-index
