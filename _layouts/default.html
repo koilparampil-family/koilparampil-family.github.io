@@ -44,13 +44,22 @@
     background: var(--panel);
   }
   .brand {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
     font-size: 15px;
     font-weight: 700;
     letter-spacing: .02em;
     color: var(--accent);
     text-decoration: none;
+    text-align: center;
     margin-bottom: 18px;
+  }
+  .brand img {
+    width: 76px;
+    height: auto;
+    border-radius: 4px;
   }
   .side nav a {
     display: block;
@@ -88,6 +97,43 @@
   h3 { font-size: 1.15em; }
   a { color: var(--link); }
   img { max-width: 100%; height: auto; border-radius: 4px; }
+
+  /* Photographs open full size when clicked. */
+  main img { cursor: zoom-in; }
+  main a img { cursor: pointer; }
+
+  /* The book cover is 600px wide and dominates the front page at full size. */
+  main img[src$="Bookcover_1a_.jpg"] { width: 300px; }
+
+  #lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 50;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    background: rgba(0, 0, 0, .85);
+    cursor: zoom-out;
+  }
+  #lightbox[hidden] { display: none; }
+  #lightbox img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    border-radius: 4px;
+    box-shadow: 0 10px 44px rgba(0, 0, 0, .55);
+  }
+  #lightbox p {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 14px;
+    margin: 0;
+    text-align: center;
+    color: #f0f0f0;
+    font-size: 14px;
+  }
   hr { border: 0; border-top: 1px solid var(--rule); margin: 2em 0; }
   ul, ol { padding-left: 1.4em; }
   code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: .92em; }
@@ -104,6 +150,8 @@
       border-bottom: 1px solid var(--rule);
       padding: 16px;
     }
+    .brand { flex-direction: row; justify-content: flex-start; margin-bottom: 12px; }
+    .brand img { width: 40px; }
     .side nav { display: flex; flex-wrap: wrap; gap: 2px; }
     .side nav a { padding: 5px 9px; }
     main { padding: 22px 18px 60px; }
@@ -114,7 +162,10 @@
 <div class="wrap">
 
   <aside class="side">
-    <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="brand" href="{{ '/' | relative_url }}">
+      {%- if site.logo %}<img src="{{ site.logo | relative_url }}" alt="" width="76">{% endif %}
+      <span>{{ site.title }}</span>
+    </a>
     <nav>
       {%- for item in site.data.nav %}
         {%- if item.home %}
@@ -137,5 +188,42 @@
   </main>
 
 </div>
+
+<div id="lightbox" hidden role="dialog" aria-modal="true" aria-label="Photograph">
+  <img alt="">
+  <p>Click anywhere, or press Escape, to close</p>
+</div>
+
+<script>
+// Click a photograph to see it at full size. No library, so there is nothing
+// to keep up to date and the page still works with scripting turned off.
+(function () {
+  var box = document.getElementById('lightbox');
+  var full = box.querySelector('img');
+  var main = document.querySelector('main');
+  if (!box || !main) return;
+
+  main.addEventListener('click', function (event) {
+    var img = event.target.closest('img');
+    // An image inside a link is a button to somewhere else; leave it alone.
+    if (!img || img.closest('a')) return;
+    full.src = img.currentSrc || img.src;
+    full.alt = img.alt || '';
+    box.hidden = false;
+    document.body.style.overflow = 'hidden';
+  });
+
+  function close() {
+    box.hidden = true;
+    full.removeAttribute('src');
+    document.body.style.overflow = '';
+  }
+
+  box.addEventListener('click', close);
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && !box.hidden) close();
+  });
+})();
+</script>
 </body>
 </html>
