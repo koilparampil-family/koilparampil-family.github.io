@@ -1,0 +1,34 @@
+# Settings for the free GitHub Pages site at https://koilparampil-family.github.io/
+#
+# The plugins below ship with GitHub Pages and are what turn a folder of plain
+# Markdown into a website:
+#   optional-front-matter  every .md file becomes a page, with no YAML header
+#                          to confuse whoever is editing it
+#   readme-index           README.md becomes the home page
+#   relative-links         rewrites "[Name](Other_Page.md)" to the built page,
+#                          so the same file reads correctly on github.com too.
+#                          It only rewrites plain destinations -- a name in
+#                          <angle brackets> is skipped and the reader ends up
+#                          staring at raw Markdown, which is why page names are
+#                          slugged to characters that need no brackets.
+#   titles-from-headings   the "# Title" line becomes the page title
+#   default-layout         gives every page the theme's layout
+
+title: Koilparampil Family
+description: Genealogy and history of the Koilparampil family, Kerala, India.
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+
+relative_links:
+  enabled: true
+  collections: false
+
+exclude:
+  - mediawiki_to_markdown.py
+  - md_verify.py

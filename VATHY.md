@@ -2,7 +2,7 @@
 
 - Branch : [Branch 6](Branch_6.md)
 - Father : [VATHY](VATHY.md)
-- Grand Childrens: [Kunchu](<Kunchu(son_of_Anthareenju_6.K.F.3).md>) , [Thommankutty](<Thommankutty(son_of_Anthareenju_6.K.F.3).md>)
+- Grand Childrens: [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md) , [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md)
 
 ---
 
@@ -26,5 +26,5 @@ G.7.
 
 G.8.
 
-1.  [Kunchu](<Kunchu(son_of_Anthareenju_6.K.F.3).md>)(6.K.F.4&4A).
-2.  [Thommankutty](<Thommankutty(son_of_Anthareenju_6.K.F.3).md>) (6.K.F.165).
+1.  [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md)(6.K.F.4&4A).
+2.  [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md) (6.K.F.165).

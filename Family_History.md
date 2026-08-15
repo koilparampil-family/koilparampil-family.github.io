@@ -16,4 +16,4 @@ They even forced them to use non-fermented 'Appam' and Holy cloths of Latin rite
 
 **When the religious border of the Kochi diocese and the Angamaly diocese was determined in 1616, the Marthoma Christian who lived in and around the border of the Kochi diocese merged into the Kochi diocese.(Shurhamer 4th century of the death of St. Francis Xavier, page 52). However, the Marthoma Christians in "Santheros mission" (Arthunkal) had good relationship with their relatives in the Kochi and Angamaly dioceses. When the "Koonam Kurishu Seisma" came into force, they, along with their relatives founded a Seisma Church at Arthunkal.** It was by the efforts of the Pope's representative, Fregussepedu Santa Maria, that they were finally reconciled to the Roman Catholic Church. (Shurhamer-the Mission work of the Jesuits, Page 37). This was the social and religious situation of Arthunkal at that time. (Indebted: "Kerala sabha Charithrathiloodai" by Rev.Fr.Sebastion Nadakal).
 
-[History Part 2](<History_Part_2(History_of_Koilparampil_(Coilparampil)_Family_-_Part_2).md>)
+[History Part 2](History_Part_2_History_of_Koilparampil_Coilparampil_Family_-_Part_2.md)

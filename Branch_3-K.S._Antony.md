@@ -30,19 +30,19 @@ Fig.1 standing : Kusumum, helper Anna, Thankachan, Evamma, Kochappan, helper Met
 
 2.Annie Evangeline (Evamma) (3.K.F.255)
 
-3.[K.A. Sebastin (Thankachan)](<K.A._Sebastin_(Thankachan).md>) (3.K.F.256)
+3.[K.A. Sebastin (Thankachan)](K.A._Sebastin_Thankachan.md) (3.K.F.256)
 
-4.[K.A. Varghese (Eugene Varghese / Kochappan)](<K.A._Varghese_(Eugene_Varghese_-_Kochappan).md>) (3.K.F.257)
+4.[K.A. Varghese (Eugene Varghese / Kochappan)](K.A._Varghese_Eugene_Varghese_Kochappan.md) (3.K.F.257)
 
 5.[K.A. John Edison](K.A._John_Edison.md) (3.K.F.258)
 
-6.[Clara Clementine(Kusumum)](<Clara_Clementine(Kusumum).md>)(3.K.F.259)
+6.[Clara Clementine(Kusumum)](Clara_Clementine_Kusumum.md)(3.K.F.259)
 
-7.[K.A. Francis Cherian/Ponnappan](K.A._Francis_Cherian-Ponnappan.md) (3.K.F.260)
+7.[K.A. Francis Cherian/Ponnappan](K.A._Francis_Cherian_Ponnappan.md) (3.K.F.260)
 
-8.[K.A. Joseph (Josey)](<K.A._Joseph_(Josey).md>)(3.K.F.261)
+8.[K.A. Joseph (Josey)](K.A._Joseph_Josey.md)(3.K.F.261)
 
-9.[K.A. Jacob Louis George (George kutty)](<K.A._Jacob_Louis_George_(George_kutty).md>) (3.K.F.262)
+9.[K.A. Jacob Louis George (George kutty)](K.A._Jacob_Louis_George_George_kutty.md) (3.K.F.262)
 
 ---
 

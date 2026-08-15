@@ -4,16 +4,16 @@
 
 KochuVathy--\> Anthareenju
 
-Anthareenju--\> [Kunchu](<Kunchu(son_of_Anthareenju_6.K.F.3).md>) , [Thommankutty](<Thommankutty(son_of_Anthareenju_6.K.F.3).md>)
+Anthareenju--\> [Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md) , [Thommankutty](Thommankutty_son_of_Anthareenju_6.K.F.3.md)
 
-[Kunchu](<Kunchu(son_of_Anthareenju_6.K.F.3).md>)--\> Eassamma , Pascal , Rosa , [Vasthyon](<Vasthyon(son_of_Kunchu_6.K.F.4).md>) , [Anthreenju](<Anthreenju(son_of_Kunchu_6.K.F.4.md>) , [Yohannan](<Yohannan(son_of_Kunchu_6.K.F.4).md>) , [Changy](<Changy(son_of_Kunchu_6.K.F.4A).md>) ,[KunjanVaishan](<KunjanVaishan(son_of_Kunchu_6.K.F.4A).md>)
+[Kunchu](Kunchu_son_of_Anthareenju_6.K.F.3-2.md)--\> Eassamma , Pascal , Rosa , [Vasthyon](Vasthyon_son_of_Kunchu_6.K.F.4-2.md) , [Anthreenju](Anthreenju_son_of_Kunchu_6.K.F.4-2.md) , [Yohannan](Yohannan_son_of_Kunchu_6.K.F.4-2.md) , [Changy](Changy_son_of_Kunchu_6.K.F.4A-2.md) ,[KunjanVaishan](KunjanVaishan_son_of_Kunchu_6.K.F.4A-2.md)
 
-[Vasthyon](<Vasthyon(son_of_Kunchu_6.K.F.4).md>)--\> [Kochanthony](<Kochanthony_(son_of_Vasthyon_6.K.F.5).md>) , [K.V.Ouseph](<K.V.Ouseph_(son_of_Vasthyon_6.K.F.5).md>) , [Pathrose](<Pathrose_(son_of_Vasthyon_6.K.F.5).md>)
+[Vasthyon](Vasthyon_son_of_Kunchu_6.K.F.4-2.md)--\> [Kochanthony](Kochanthony_son_of_Vasthyon_6.K.F.5.md) , [K.V.Ouseph](K.V.Ouseph_son_of_Vasthyon_6.K.F.5.md) , [Pathrose](Pathrose_son_of_Vasthyon_6.K.F.5.md)
 
-[Pathrose](<Pathrose_(son_of_Vasthyon_6.K.F.5).md>)--\> Anthareenju , Mary , [Vasthyon](<Vasthyon_(son_of_Pathrose(6.K.F.50).md>) , [Jusay](<Jusay_(son_of_Pathrose(6.K.F.50).md>)
+[Pathrose](Pathrose_son_of_Vasthyon_6.K.F.5.md)--\> Anthareenju , Mary , [Vasthyon](Vasthyon_son_of_Pathrose_6.K.F.50.md) , [Jusay](Jusay_son_of_Pathrose_6.K.F.50.md)
 
-[Jusay](<Jusay_(son_of_Pathrose(6.K.F.50).md>)--\> Pranchies , Karbikutty , George , Mareena , Rosary , [Thoma](<Thoma_(son_of_Jusay(6.K.F.63).md>) , [Pranchies](<Pranchies_(son_of_Jusay(6.K.F.63).md>) , [Dhumini](<Dhumini_(son_of_Jusay(6.K.F.63).md>)
+[Jusay](Jusay_son_of_Pathrose_6.K.F.50.md)--\> Pranchies , Karbikutty , George , Mareena , Rosary , [Thoma](Thoma_son_of_Jusay_6.K.F.63.md) , [Pranchies](Pranchies_son_of_Jusay_6.K.F.63.md) , [Dhumini](Dhumini_son_of_Jusay_6.K.F.63.md)
 
-[Kochanthony](<Kochanthony_(son_of_Vasthyon_6.K.F.5).md>)--\> Joseph , Mariya , [Vaishankunju](<Vaishankunju_(son_of_Kochanthony_6.K.F.6).md>) , [Vavachan](<Vavachan(son_of_Kochanthony_6.K.F.6).md>)
+[Kochanthony](Kochanthony_son_of_Vasthyon_6.K.F.5.md)--\> Joseph , Mariya , [Vaishankunju](Vaishankunju_son_of_Kochanthony_6.K.F.6.md) , [Vavachan](Vavachan_son_of_Kochanthony_6.K.F.6.md)
 
-[Changy](<Changy(son_of_Kunchu_6.K.F.4A).md>)--\> Vava , [Thamby](<Thamby_(son_of_Changy_6.K.F.105).md>)
+[Changy](Changy_son_of_Kunchu_6.K.F.4A-2.md)--\> Vava , [Thamby](Thamby_son_of_Changy_6.K.F.105.md)

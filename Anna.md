@@ -1,9 +1,9 @@
 # Anna
 
 - Branch : [Branch 3](Branch_3.md)
-- Father : [Kochory](<Kochory(son_of_Faranth-Francis_3.K.F.5).md>)
-- Brothers: 1.-----, 2.----- , 3.------ , 4.----- , 5. Clara , 6. [Vasthyan](<Vasthyan(son_of_Kochory_3.K.F.20).md>) , 7. Kathreena.
-- Childrens : [Margarita](<Margarita(daughter_of_Vasthyav_(Sebastin)_3.K.F.28).md>) , [K.S.Gabriel](<K.S.Gabriel(son_of_Vasthyan_(Sebastin)_3.K.F.28).md>) , [Mariyamma](<Mariyamma(daughter_of_Vasthyav_(Sebastin)3.K.F.28).md>) , [Eleeswa](<Eleeswa(daughter_of_Vasthyav_(Sebastin)_3.K.F.28).md>) , [K.S.Chearian](<K.S.Chearian(son_of_Vasthyav_(Sebastin)_3.K.F.28).md>) , [Rev.Sr.Marey Beatrice](<Rev.Sr.Marey_Beatrice(daughter_of_Vasthyav_(Sebastin)_3.K.F.28).md>) , [K.S.Joseph](<K.S.Joseph(son_of_Vasthyav_(Sebastin)_3.K.F.28).md>) , [K.S.Antony](<K.S.Antony(son_of_Vasthyav_(Sebastin)_3.K.F.28).md>)
+- Father : [Kochory](Kochory_son_of_Faranth_Francis_3.K.F.5.md)
+- Brothers: 1.-----, 2.----- , 3.------ , 4.----- , 5. Clara , 6. [Vasthyan](Vasthyan_son_of_Kochory_3.K.F.20-2.md) , 7. Kathreena.
+- Childrens : [Margarita](Margarita_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Gabriel](K.S.Gabriel_son_of_Vasthyan_Sebastin_3.K.F.28-2.md) , [Mariyamma](Mariyamma_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [Eleeswa](Eleeswa_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Chearian](K.S.Chearian_son_of_Vasthyav_Sebastin_3.K.F.28.md) , [Rev.Sr.Marey Beatrice](Rev.Sr.Marey_Beatrice_daughter_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Joseph](K.S.Joseph_son_of_Vasthyav_Sebastin_3.K.F.28.md) , [K.S.Antony](K.S.Antony_son_of_Vasthyav_Sebastin_3.K.F.28.md)
 
 ---
 
@@ -17,7 +17,7 @@ George (Chochi), Krumancheriyil (Kattathara) at Ezhupunna, had two sisters .(I d
 
 The Vasthyan, Eresseriyil at Marrikulam, married elder one.
 
-[The younger sister married Dumeenge Kurusinkal at Arthunkal)](<The_younger_sister_married_Dumeenge_Kurusinkal_at_Arthunkal).md>).
+[The younger sister married Dumeenge Kurusinkal at Arthunkal)](The_younger_sister_married_Dumeenge_Kurusinkal_at_Arthunkal.md).
 
 3.Er.F.29/G8.**VASTHYAN(SEBASTIN)** of Eresseriyil Marrikulam as mentioned before 3.T.F.28A had seven children, namely:-
 

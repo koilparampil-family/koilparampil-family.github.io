@@ -1,7 +1,7 @@
 # Jino Tom Joseph
 
 - Branch : [Branch 3](Branch_3.md)
-- Father in law : [K.A.Thankachan](<K.A.Thankachan(son_of_K.S.Antony_3.K.F.254).md>)
+- Father in law : [K.A.Thankachan](K.A.Thankachan_son_of_K.S.Antony_3.K.F.254.md)
 - Son in law : [Jino Tom Joseph](Jino_Tom_Joseph.md)
 
 ---

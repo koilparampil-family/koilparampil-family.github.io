@@ -1,12 +1,12 @@
 # Ponchi
 
-[Branch 4](Branch_4.md),[Kochu Vathy](<Kochu_Vathy(son_of_Sanchan_K.F.5).md>), [Tressyamma](<Tressyamma_(daughter_of_Sanchan).md>), [Vacko](<Vacko_(son_of_Tressyamma).md>), [Lonan/Anthony](<Lonan-Anthony_(son_of_4.K.F.7-G9(1)Sanchan).md>), [Antho](<Antho(son_of_Sanchan_K.F.5).md>), kochu-kaippary, [Kochanthira](<Kochanthira(son_of_kochu_Sanchan).md>), [Vasthyon](<Vasthyon(son_of_kochu_Sanchan).md>), [Kunjuousay](<Kunjuousay(son_of_kochu_Sanchan).md>), [Lonachan](<Lonachan(son_of_kochu_Sanchan).md>), [Ponchi](Ponchi.md), [Ousea](Ousea.md), [Ouseph](Ouseph.md) , [Pathrose](Pathrose.md), [Lonan](Lonan.md), [Thomas](Thomas.md), [Jorus](Jorus.md), [Philipose](Philipose.md), [Sipri](Sipri.md) , [Michael](Michael.md) , [Anthappan](Anthappan.md) , [Vathen](Vathen.md),[K.P.Jusay](K.P.Jusay.md),[Johnkunju](Johnkunju.md),[Lonan](Lonan.md),[Vasthyon](Vasthyon.md),[Jusay](Jusay.md)
+[Branch 4](Branch_4.md),[Kochu Vathy](Kochu_Vathy_son_of_Sanchan_K.F.5.md), [Tressyamma](Tressyamma_daughter_of_Sanchan.md), [Vacko](Vacko_son_of_Tressyamma.md), [Lonan/Anthony](Lonan_Anthony_son_of_4.K.F.7_G9_1_Sanchan.md), [Antho](Antho_son_of_Sanchan_K.F.5.md), kochu-kaippary, [Kochanthira](Kochanthira_son_of_kochu_Sanchan.md), [Vasthyon](Vasthyon_son_of_kochu_Sanchan.md), [Kunjuousay](Kunjuousay_son_of_kochu_Sanchan.md), [Lonachan](Lonachan_son_of_kochu_Sanchan.md), [Ponchi](Ponchi.md), [Ousea](Ousea.md), [Ouseph](Ouseph.md) , [Pathrose](Pathrose.md), [Lonan](Lonan.md), [Thomas](Thomas.md), [Jorus](Jorus.md), [Philipose](Philipose.md), [Sipri](Sipri.md) , [Michael](Michael.md) , [Anthappan](Anthappan.md) , [Vathen](Vathen.md),[K.P.Jusay](K.P.Jusay.md),[Johnkunju](Johnkunju.md),[Lonan](Lonan.md),[Vasthyon](Vasthyon.md),[Jusay](Jusay.md)
 
 Branch 4 Anthey
 
-1.  Kochu Vathy (4.K.F.6).[Kochu Vathy](<Kochu_Vathy(son_of_Sanchan_K.F.5).md>)
-2.  Antho (4.K.F.73).[Antho](<Antho(son_of_Sanchan_K.F.5).md>)
-3.  Ponchi (4.K.F.222)[Ponchi](<Ponchi(son_of_Sanchan_K.F.5).md>)
+1.  Kochu Vathy (4.K.F.6).[Kochu Vathy](Kochu_Vathy_son_of_Sanchan_K.F.5.md)
+2.  Antho (4.K.F.73).[Antho](Antho_son_of_Sanchan_K.F.5.md)
+3.  Ponchi (4.K.F.222)[Ponchi](Ponchi_son_of_Sanchan_K.F.5.md)
 
 4.K.F.222/G8(3) to 4.K.F.260/G12(4)
 

@@ -4,11 +4,11 @@ Belsita Edison passed away
 
 ---
 
-[K.C.EAPEN](<K.C.Eapen(son_of_K.S.Cheriyan_Mapillai_3.K.F.101).md>)
+[K.C.EAPEN](K.C.Eapen_son_of_K.S.Cheriyan_Mapillai_3.K.F.101-2.md)
 
 ---
 
-[K.A. Varghese](<K.A._Varghese_(Eugene_Varghese_-_Kochappan).md>) passed away on 21-Jan-2012.
+[K.A. Varghese](K.A._Varghese_Eugene_Varghese_Kochappan.md) passed away on 21-Jan-2012.
 
 ![k a varghese 2](images/0/0a/K_a_varghese_2.jpg)
 

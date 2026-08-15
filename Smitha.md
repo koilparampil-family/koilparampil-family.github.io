@@ -1,7 +1,7 @@
 # Smitha
 
 - Branch : [Branch 3](Branch_3.md)
-- Father in law : [K.A.Kochappan](<K.A.Kochappan_(son_of_K.S.Antony_3.K.F.254).md>)
+- Father in law : [K.A.Kochappan](K.A.Kochappan_son_of_K.S.Antony_3.K.F.254.md)
 - Daughter in law :[Smitha](Smitha.md)
 
 ---

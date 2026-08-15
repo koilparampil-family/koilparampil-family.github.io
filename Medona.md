@@ -1,7 +1,7 @@
 # Medona
 
 - Branch : [Branch 3](Branch_3.md)
-- Father in law : [K.A.Thankachan](<K.A.Thankachan(son_of_K.S.Antony_3.K.F.254).md>)
+- Father in law : [K.A.Thankachan](K.A.Thankachan_son_of_K.S.Antony_3.K.F.254.md)
 - Daughter in law : [Medona](Medona.md)
 
 ---
