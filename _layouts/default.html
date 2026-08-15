@@ -103,12 +103,41 @@ body {
 .navbar .menu a:hover { color: var(--ink); border-bottom-color: var(--gold); }
 .navbar .menu a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--gold); }
 
+/* ---- search ---- */
+.search { position: relative; }
+.search input {
+  width: 300px; padding: 10px 18px;
+  border: 1px solid var(--rule); border-radius: 999px;
+  background: var(--glass); color: var(--ink);
+  font: 400 14px/1 var(--ui);
+  box-shadow: var(--shadow-sm);
+  transition: border-color .18s ease, box-shadow .18s ease;
+}
+.search input::placeholder { color: var(--faint); }
+.search input:focus { outline: none; border-color: var(--gold); box-shadow: var(--shadow); }
+.search input:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.search-results {
+  position: absolute; top: calc(100% + 8px); left: 50%; transform: translateX(-50%);
+  min-width: 340px; max-width: 100%; max-height: 420px; overflow-y: auto;
+  margin: 0; padding: 6px; list-style: none;
+  background: var(--glass); border: 1px solid var(--rule); border-radius: 12px;
+  box-shadow: var(--shadow); backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
+  display: none; z-index: 50;
+}
+.search-results.open { display: block; }
+.search-results li a {
+  display: block; padding: 9px 12px; border-radius: 8px;
+  color: var(--ink); font: 500 13.5px/1.35 var(--ui); border-bottom: 0;
+}
+.search-results li a:hover, .search-results li.active a { background: var(--gold-soft); color: var(--ink); }
+.search-results li.none { padding: 12px; color: var(--muted); font: 400 13.5px/1.4 var(--ui); }
+
 /* ---- content ---- */
-main { max-width: 1080px; margin: 0 auto; padding: 64px 40px 40px; }
+main { max-width: 1080px; margin: 0 auto; padding: 32px 40px 40px; }
 .page { max-width: 42rem; margin: 0 auto; }
 .page :first-child { margin-top: 0; }
 
-.pagebar { display: flex; justify-content: center; margin-bottom: 34px; }
+.pagebar { display: flex; flex-direction: column; align-items: center; gap: 14px; margin-bottom: 34px; }
 .edit {
   display: inline-flex; align-items: center; gap: 9px;
   padding: 10px 22px; border-radius: 999px;
@@ -233,6 +262,8 @@ body.home .page > p:first-of-type::first-letter {
   .top .tag { letter-spacing: .22em; font-size: 10px; }
   .navbar .inner { padding: 0 16px; }
   .navbar .menu a { padding: 12px 10px; font-size: 11.5px; }
+  .search input { width: 100%; }
+  .search-results { left: 0; transform: none; width: 100%; min-width: 0; }
   main { padding: 44px 20px 20px; }
   h1 { font-size: 1.9rem; }
   .footer .inner { padding: 32px 20px 40px; }
@@ -281,6 +312,12 @@ body.home .page > p:first-of-type::first-letter {
   <div class="page">
     {%- if site.repository and page.path %}
     <div class="pagebar">
+      <div class="search">
+        <input id="search-input" type="search" placeholder="Search people &amp; pages" autocomplete="off"
+               aria-label="Search people and pages" role="combobox" aria-expanded="false"
+               aria-controls="search-results" aria-autocomplete="list">
+        <ul class="search-results" id="search-results" role="listbox" aria-label="Search results"></ul>
+      </div>
       <a class="edit"
          href="https://github.com/{{ site.repository }}/edit/{{ site.branch | default: 'main' }}/{{ page.path }}"
          title="Anyone with a free GitHub account can correct or add to this page">
@@ -335,6 +372,125 @@ body.home .page > p:first-of-type::first-letter {
   box.addEventListener('click', close);
   document.addEventListener('keydown', function (event) {
     if (event.key === 'Escape' && !box.hidden) close();
+  });
+})();
+</script>
+<script>
+// Search across every page. No library: the index is a JSON file Jekyll
+// builds from the Markdown, so there is nothing extra to keep up to date.
+(function () {
+  var input = document.getElementById('search-input');
+  var results = document.getElementById('search-results');
+  if (!input || !results) return;
+
+  var index = [];
+  var loaded = false;
+  var debounce;
+  var active = -1;
+
+  function loadIndex() {
+    if (loaded) return;
+    loaded = true;
+    fetch('{{ "/search.json" | relative_url }}')
+      .then(function (r) { return r.json(); })
+      .then(function (data) { index = data; })
+      .catch(function () {});
+  }
+
+  function terms(query) {
+    return query.toLowerCase().split(/\s+/).filter(Boolean);
+  }
+
+  // 0 = no match at all. Higher is a better hit: a name in the title beats the
+  // same words buried in someone else's page of relatives.
+  function score(item, words) {
+    var title = item.title.toLowerCase();
+    var hay = title + ' ' + item.text.toLowerCase();
+    for (var i = 0; i < words.length; i++) {
+      if (hay.indexOf(words[i]) === -1) return 0;
+    }
+    var inTitle = words.every(function (w) { return title.indexOf(w) !== -1; });
+    if (!inTitle) return 1;
+    if (title === words.join(' ')) return 4;
+    if (title.indexOf(words[0]) === 0) return 3;
+    return 2;
+  }
+
+  function render(query) {
+    if (!query.trim()) { hide(); return; }
+    var words = terms(query);
+    // Score everything first, then take the best 12. Truncating before the
+    // sort would let 12 passing mentions hide the page actually named.
+    var hits = [];
+    for (var i = 0; i < index.length; i++) {
+      var s = score(index[i], words);
+      if (s) hits.push({ item: index[i], score: s });
+    }
+    hits.sort(function (a, b) {
+      return b.score - a.score || a.item.title.localeCompare(b.item.title);
+    });
+    hits = hits.slice(0, 12).map(function (h) { return h.item; });
+    results.innerHTML = '';
+    if (!hits.length) {
+      var li = document.createElement('li');
+      li.className = 'none';
+      li.textContent = 'No matches for "' + query.trim() + '"';
+      results.appendChild(li);
+    } else {
+      hits.forEach(function (hit) {
+        var item = document.createElement('li');
+        item.setAttribute('role', 'option');
+        var a = document.createElement('a');
+        a.href = hit.url;
+        a.textContent = hit.title;
+        item.appendChild(a);
+        results.appendChild(item);
+      });
+    }
+    results.classList.add('open');
+    input.setAttribute('aria-expanded', 'true');
+    active = -1;
+  }
+
+  function hide() {
+    results.classList.remove('open');
+    input.setAttribute('aria-expanded', 'false');
+    active = -1;
+  }
+
+  function setActive(items) {
+    for (var i = 0; i < items.length; i++) {
+      items[i].parentNode.classList.toggle('active', i === active);
+    }
+    var el = items[active];
+    if (el) el.scrollIntoView({ block: 'nearest' });
+  }
+
+  input.addEventListener('input', function () {
+    loadIndex();
+    clearTimeout(debounce);
+    debounce = setTimeout(function () { render(input.value); }, 150);
+  });
+
+  input.addEventListener('keydown', function (e) {
+    var items = results.querySelectorAll('li a');
+    if (e.key === 'Escape') { hide(); input.blur(); }
+    else if (e.key === 'ArrowDown' && items.length) {
+      e.preventDefault();
+      active = (active + 1) % items.length;
+      setActive(items);
+    } else if (e.key === 'ArrowUp' && items.length) {
+      e.preventDefault();
+      active = (active - 1 + items.length) % items.length;
+      setActive(items);
+    } else if (e.key === 'Enter' && active >= 0) {
+      e.preventDefault();
+      items[active].click();
+    }
+  });
+
+  document.addEventListener('click', function (e) {
+    if (!e.target.closest('.search')) hide();
   });
 })();
 </script>
