@@ -34,6 +34,6 @@ G.13.
 1.  Rinata 17th August 2003
 2.  SAJITHA
 
-![sanish1](images/c/cf/Sanish1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p179142-amby-antony.html)
+![sanish1](images/c/cf/Sanish1.jpg)
 
 3.K.F.285/G12(4). SANISH (K.G.AMBY ANTONY)3.T.F.281. He is working in an Arab country.

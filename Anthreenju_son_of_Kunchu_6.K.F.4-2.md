@@ -9,7 +9,7 @@
 
 ## ANTHREENJU
 
-![Andrue(Padavan)](images/a/a0/Andrue%28Padavan%29.jpg) [Click On Click->](http://gallery.bizhat.com)
+![Andrue(Padavan)](images/a/a0/Andrue%28Padavan%29.jpg)
 
 6.K.F.79/G9(4)**ANTHREENJU** 1853 [6.T.F.4]
 

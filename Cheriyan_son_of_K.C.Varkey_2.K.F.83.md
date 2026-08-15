@@ -20,7 +20,7 @@ G.11.
 5.  Rossy 1943 (2.K.99).
 6.  Ealamma 1945(2.K.100).
 
-![k c vaeghese](images/e/e3/K_c_vaeghese.jpg) [VARGHESE](http://gallery.bizhat.com/Mr.K.C)
+![k c vaeghese](images/e/e3/K_c_vaeghese.jpg) VARGHESE
 
 2.K.F.86/G11(1)K.C VARGHESE 10.12.1935-13.10.1983 [2.T.F.85] married Ealy 14.5.1937, daughter of Ouseph and Ealiyamma, Maduraveliyil, Manappuram, Cherthala.
 
@@ -73,7 +73,7 @@ G.13.
 
 1.  Joby Thomas A.S.E. 14.8.1976.
 
-![Joby Varghese](images/0/03/Joby_Varghese.jpg) [Mr.K.V. JOBY (THOMAS)](http://gallery.bizhat.com/)
+![Joby Varghese](images/0/03/Joby_Varghese.jpg) Mr.K.V. JOBY (THOMAS)
 
 2.K.F.94/G12(8)K.V. JOBY (THOMAS) [2.T.F. 86] 14.8.1976
 

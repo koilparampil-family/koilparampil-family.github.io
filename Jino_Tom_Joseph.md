@@ -8,6 +8,6 @@
 
 ## Jino Tom Joseph
 
-![Jino](images/c/cd/Jino.jpg) [Mr.& Mrs. A.J.Jino](http://gallery.bizhat.com/)
+![Jino](images/c/cd/Jino.jpg) Mr.& Mrs. A.J.Jino
 
 Joseph (Mamachan) and Annamma of Azhickal, Cherthala.

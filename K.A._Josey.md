@@ -9,7 +9,7 @@
 
 ## K.A. JOSEPH (JOSEY)
 
-![josey1](images/7/79/Josey1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220278-k-a-josey2cmarykutty.html)
+![josey1](images/7/79/Josey1.jpg)
 
 3.K.F.278/G11(8).**K.A. JOSEPH (JOSEY)**3.T.F.25417-10-1947 Friday. After general education Josey passed certificate course in fitter Trade in ITC and he ran a workshop at Arthunkal. He married [Marykutty](K.J.Sebastin_son_of_K.S.Joseph_3.K.F.218-2.md) 1950, daughter of Sebastian and Sosamma, Koilparampil Arthunkal 3.K.F.220. The marriage was on 5-5-1974. Ph. 0478-257 2266. Now Josey ran a medical shop at Arutunkl named "Jose Medicals". Ph. 0478- 257 2244.
 
@@ -18,18 +18,18 @@ G.12.
 1.  Soniya (Mariyathresya)(3.K.F.279).
 2.  Chippu (Jose Antony) (3.K.F.280).
 
-![arun1](images/5/55/Arun1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220270-arun-berty2csoniya.html)
+![arun1](images/5/55/Arun1.jpg)
 
 3.K.F.279/G12(1). SONIYA (MARIYA THRESYA)3.T.F. 278 23.4.1975 Wednesday. After Predegree she studied the Pharmacy 'D.Pharm.' and working as a Pharmacist. She married to Arun Berty, son of A.H.Berty and Leela Athipoziyil Arthunkal. The marriage was on Thursday 26th August 1999. The couple has one son and a daughter. Ph. 0478- 257 3327.
 
-![areena1](images/6/6f/Areena1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220269-areena-arun.html)
+![areena1](images/6/6f/Areena1.jpg)
 
 G.13.
 
 1.  Areena Arun
 2.  Amen
 
-![chippu1](images/9/91/Chippu1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220274-chippu28jose-antony-29.html)
+![chippu1](images/9/91/Chippu1.jpg)
 
 3.K.F.280/G12(2). CHIPPU (K.J.JOSE ANTONY)3.T.F.278(23.8.1978 - 26.12. 02) after Predegree he studied Electronics in ITC Arthunkal. On 26.12.02 at 2200 h, he died in an accident.
 

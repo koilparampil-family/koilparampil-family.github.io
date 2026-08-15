@@ -11,11 +11,11 @@
 
 ![K.O.Varkey](images/5/5f/K.O.Varkey.jpg)
 
-![k.o.varkey family](images/0/0e/K.o.varkey_family.jpg) [K.O.Varkey Family](http://gallery.bizhat.com/)
+![k.o.varkey family](images/0/0e/K.o.varkey_family.jpg) K.O.Varkey Family
 
 2.K.F.27/G10(2)**K.O.VARKKY(K.O.Varghese)** 10.8.1905-28.6.1994 [2.T.F.2] married Rosamma .
 
-![k.o.varkey family](images/0/0e/K.o.varkey_family.jpg) [K.O.Varkey Family](http://gallery.bizhat.com/)
+![k.o.varkey family](images/0/0e/K.o.varkey_family.jpg) K.O.Varkey Family
 
 Sitting : 11,Fr.Mathew Koilparampil. 12,Ouseph Varghese. 13,Fr.Joseph Koilparampil.
 

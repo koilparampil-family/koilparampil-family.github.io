@@ -8,6 +8,6 @@
 
 ## Medona
 
-![thankachan](images/7/7a/Thankachan.jpg) [Mr.& Mrs. K.A.Sebastin](http://gallery.bizhat.com/)
+![thankachan](images/7/7a/Thankachan.jpg) Mr.& Mrs. K.A.Sebastin
 
 Joy and Mary Panickaveettil, Mararikulam on 26th April 2004.

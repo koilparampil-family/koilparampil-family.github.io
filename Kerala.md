@@ -9,5 +9,3 @@ First settled in the 10th century BC by speakers of Proto-South Dravidian, Keral
 Social reforms enacted in the late 19th century by Cochin and Travancore were expanded upon by post-Independence governments, making Kerala among the Third World's longest-lived, healthiest, most gender-equitable, and most literate regions. However, Kerala's rates of suicide, unemployment, and violent crime rank among India's highest.
 
 The etymology of the name "Kerala" is disputed. The prevailing theory states that it is an imperfect portmanteau that fuses kera ("coconut palm tree") and alam ("land" or "location"). Natives of Kerala — "Keralites" or "Malayalees" — thus refer to their land as Keralam. Other theories have the name originating from the phrase chera alam ("Land of the Chera"). The Kerala tourism industry has adopted the slogan "God's own country".
-
-[Kerala Photo Gallery](http://gallery.bizhat.com/g501-kerala.html)

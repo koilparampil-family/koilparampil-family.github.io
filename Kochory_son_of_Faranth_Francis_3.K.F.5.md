@@ -50,7 +50,7 @@ G13.
 
 VASTHYAN 3.T.F. 21
 
-![frxavierpresentation](images/0/08/Frxavierpresentation.jpg) [Fr. Xavier presentation](http://gallery.bizhat.com/old-photos-of-priests/p186165-fr-xavier-presentation.html/)
+![frxavierpresentation](images/0/08/Frxavierpresentation.jpg) Fr. Xavier presentation
 
 G.12.
 

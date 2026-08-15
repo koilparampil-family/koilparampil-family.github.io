@@ -9,7 +9,7 @@
 
 ## K.G.VARGHESE (KUNJAPPAN)
 
-![k g kunjappan1](images/b/b4/K_g_kunjappan1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219338-k-g-vapghese-and-vava-kutty.html)
+![k g kunjappan1](images/b/b4/K_g_kunjappan1.jpg)
 
 3.K.F. 104/G11(2). **K.G.VARGHESE (KUNJAPPAN)**3.T.F.101 born in 25 th Nov 1913.(10 th Vrischikam 1089) and died on 22.12.1998. His primary education was at Arthunkal matriculation Govt. H.S., Cherthala. After his education he worked as the area manager of M/s. Singer Sewing machine company at Quilon, afterwards he joined the British army.
 
@@ -27,33 +27,33 @@ G.12.
 6.  Mary Tresa(Lovely)(3.K.F.110)
 7.  Mary Angel(Geena)(3.K.F.111).
 
-![majer babu1](images/9/99/Majer_babu1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219342-majer-babu.html)
+![majer babu1](images/9/99/Majer_babu1.jpg)
 
 Major BABU (THOMAS BONIFUS)B.A. 29-9-1948. After studies he joined military service and was Major in Maratha Regiment of the Indian army. On 21st May 1975, he married Mary (Sheela), daughter of Antony and Saramma Pazhangad, Vallarpadam. After voluntary discharge from military service, Major Babu worked as the chief security officer in the M.R.F. company in Goa. Now he works as the security officer in the Vasco shipyard Goa. They have two sons.
 
-![gabi thomas1](images/8/88/Gabi_thomas1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219336-gaby-and-gary.html)
+![gabi thomas1](images/8/88/Gabi_thomas1.jpg)
 
 G13.
 
 1.  George Sebastian (Gabi) 29-12-1977 Ph.0484 3567883.
 2.  Antony Gabriel(Gari)12.11.1983.
 
-![jacob s k1](images/a/a2/Jacob_s_k1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219337-jacob-and-laila.html)
+![jacob s k1](images/a/a2/Jacob_s_k1.jpg)
 
 ANNIE MARY(LAILA) 3.T.F. 104 Born on 9-11-1949. She married Jacob, son of Solomen and Cicily, Arukulasseril, Pallithode on 23-1-1978. Jacob is working at Delhi, they have two daughters.
 
-![bincy1](images/f/f2/Bincy1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219335-bincy.html)
+![bincy1](images/f/f2/Bincy1.jpg)
 
 G13.
 
 1.  Mary Cicily(Breezy)18-1-1979. M.Sc Micro Biology. National Institute of Oceanography, Cochin.
 2.  Annie Mary (Binzy) 18-3-1981 M.Sc. Physics. National Institute of Oceanography, Cochin.
 
-![lal koilparampil12](images/b/be/Lal_koilparampil12.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219341-lal-koilparampil-and-mini-lal.html)
+![lal koilparampil12](images/b/be/Lal_koilparampil12.jpg)
 
 GEORGE SEBASTIN (LAL_KOILPARAMPIL)3.T.F.104 born on 29.9.1952. After studies he joined the Kerla Catholic youth movement. He traveled through out the coastal regions of Kerala in order to strengthen the movement. Then he came to realize the miserable conditions of the poor sea-going fishermen and organized an independent movement. This movement has become a great force in the coastal areas and "Lal Koilparampil" is the unquestioned leader. On 22-5-1987 he married Achamma (Mini) B.Sc.,B.Ed. (H.S.A. teacher in St.Francis Assisi higher secondary school, Arthunkal), daughter of Peter and Mary, Vayalumkal, Kurali, Ponkunnam (Knanaya Jacobite). This family resides near the tharavad house, Ph.0478-2572318
 
-![nidhia1](images/f/f1/Nidhia1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219343-nidhia-and-nidhin.html)
+![nidhia1](images/f/f1/Nidhia1.jpg)
 
 G13.
 
@@ -73,13 +73,13 @@ K.V. IGNATIOUS GABRIEL (KUNJUMON)3.T.F. 104 M.Tech. 7.11.1959, Professor of the 
 
 G13.
 
-![kunjumon-1](images/d/de/Kunjumon-1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219339-k-vignatious-and-vasundhara.html)
+![kunjumon-1](images/d/de/Kunjumon-1.jpg)
 
 K.V. IGNATIOUS GABRIEL (KUNJUMON)3.T.F. 104 M.Tech.
 
 2st marriage
 
-![kunjumon012](images/b/b5/Kunjumon012.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219340-k-vignatious-childrens.html)
+![kunjumon012](images/b/b5/Kunjumon012.jpg)
 
 G13.
 

@@ -20,7 +20,7 @@ The 6 roots in the family emblem represent the 6 branches of the koilparampil fa
 
 **Photos of 6th KOFA meeting on 26 Jan 2010**
 
-![kofa 2011](images/a/a0/Kofa_2011.jpg) [COFA 2011](http://gallery.bizhat.com/)
+![kofa 2011](images/a/a0/Kofa_2011.jpg) COFA 2011
 
 ![1](images/f/f3/1.jpg)
 
@@ -55,5 +55,3 @@ Saneesh George - Member
 Jaideep Oommen - Member
 
 A delicious dinner followed and the meeting was concluded at 10 pm.
-
-[Koilparampil Photo Gallery](http://gallery.bizhat.com/u19920-koilparampil.html)

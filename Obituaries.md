@@ -30,10 +30,10 @@ I can be contacted as follows : Mrs. Selene Thomas No 2 Lorong Sentul Bahagia 2 
 
 ---
 
-[Sr.BEATRICE](http://gallery.bizhat.com/branch-3/p134075-untitled-scanned-051.html)
+Sr.BEATRICE
 
-[MARIAMMA JOSEOH](http://gallery.bizhat.com/branch-5/p193105-mariamma-coilparampil-joseoh.html)
+MARIAMMA JOSEOH
 
-[K.C PAPPY](http://gallery.bizhat.com/branch-3/p176573-cheriyan-pappy.html)
+K.C PAPPY
 
-[K.F JOSEPH](http://gallery.bizhat.com/branch-5/p176640-francies-joseph.html)
+K.F JOSEPH

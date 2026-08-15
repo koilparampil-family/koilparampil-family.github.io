@@ -91,7 +91,7 @@ Achamma with Regan
 
 Achamma
 
-5.K.F.247/G12(6).ACHAMMA [5.T.F.240A] 1930 She came to the United States with a full scholarship to do her undergraduate studies. After getting her B.A. in English from Barat College, Lake Forest, Illinois in 1966 she got a Masters in Teaching English as a Second Language from the University of Illinois. She did some course work towards a Ph. D. in Linguistics, but did not complete it. Later she went back to college and got an MBA in Finance from Drexel University in 1977. She married Chadra Chandersekaran [Achamma](http://www.achammachander.com/)
+5.K.F.247/G12(6).ACHAMMA [5.T.F.240A] 1930 She came to the United States with a full scholarship to do her undergraduate studies. After getting her B.A. in English from Barat College, Lake Forest, Illinois in 1966 she got a Masters in Teaching English as a Second Language from the University of Illinois. She did some course work towards a Ph. D. in Linguistics, but did not complete it. Later she went back to college and got an MBA in Finance from Drexel University in 1977. She married Chadra Chandersekaran Achamma
 
 5.K.F.248/G12(7).CHINNAMMA [5.T.F.240A]1932 M.B.A, B.L. married Kenneth C.Mahieu (USA).
 

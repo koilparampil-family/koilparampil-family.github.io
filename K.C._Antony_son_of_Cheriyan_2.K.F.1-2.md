@@ -9,7 +9,7 @@
 
 ## K.C. ANTONY (KUNJU KUNJU)
 
-![k.c.antony house](images/d/df/K.c.antony_house.jpg) [K.C.Antony House](http://gallery.bizhat.com/)
+![k.c.antony house](images/d/df/K.c.antony_house.jpg) K.C.Antony House
 
 2.K.F.108/G9(5)**K.C. ANTONY (KUNJU KUNJU)** [2.T.F.1] he lived in the "Tharavad" home at Mackekadavu.
 
@@ -20,7 +20,7 @@ G.10.
 3.  Thresya (2.K.F.124) 1914(2.K.F.123).
 4.  Ealy 1916 (2.K.F.124).
 
-![k a cherian](images/0/07/K_a_cherian_.jpg) [K.A.Cheriyan Family](http://gallery.bizhat.com/)
+![k a cherian](images/0/07/K_a_cherian_.jpg) K.A.Cheriyan Family
 
 2.K.F.109/G10(1)K.A.CHERIYAN 1910--30.9.1999 [2.T.F.108] married Rosamma 1920--30.4.1998. daughter of Varkey Manimala, Kulasekharamangalam, Vaikom.
 
@@ -50,7 +50,7 @@ G.12.
 3.  Saju (1971) and
 4.  Thomas Elias Maju (1973).
 
-![saju joseph](images/6/60/Saju_joseph.jpg) [Mr.& Mrs.Saju Joseph](http://gallery.bizhat.com/)
+![saju joseph](images/6/60/Saju_joseph.jpg) Mr.& Mrs.Saju Joseph
 
 2.K.F.111/G12(3) SAJU JOSEPH 1971 (Regional Manager (DPC)E.I.Dupont India Pvt.Ltd) (2.T.F.111)married to Deepa Kurian daughter of P.C.Kurian and Celine Kurian. Ph. <Res:044> 55440622 Mob:91 9380571258. saju_joseph1@yahoo.com
 

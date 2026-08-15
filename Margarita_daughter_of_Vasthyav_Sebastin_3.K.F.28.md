@@ -24,7 +24,7 @@ G11.
 
 3.Ch.F.68/G11(3) THRESSYAMMA[3.T.F. 66] married Lawrence Kizhakkanthalakal (Kurishinkal) Arthunkal They have four daughters.She was born in1892 and died in1959.
 
-![k s antony1-](images/0/03/K_s_antony1-.jpg) [Gallery->](http://gallery.bizhat.com/branch-3/p212794-k-s-antony.html)
+![k s antony1-](images/0/03/K_s_antony1-.jpg)
 
 G12.
 
@@ -215,7 +215,7 @@ G14.
 
 3.Ve.F100/G11(5) ANNIE (ANNA KUTTY)[[3.T.F. 66] married to Kunjan Vaishyan Kochikaranveettle, at Chetticad.
 
-![k s antony1-](images/0/03/K_s_antony1-.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p212794-k-s-antony.html)
+![k s antony1-](images/0/03/K_s_antony1-.jpg)
 
 G12.
 

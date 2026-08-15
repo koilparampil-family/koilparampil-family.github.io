@@ -46,7 +46,7 @@ G14.
 
 4.K.F.144/G13(6)JIJI 9-1-1961 [4.T.F.138] married Kochuthresya(Jis)1967 daughter of Jose Kattiparampil Muttathuparampu,Cherthala.
 
-![Pauljerry](images/7/7c/Pauljerry.jpg) [Click On Click->](http://gallery.bizhat.com)
+![Pauljerry](images/7/7c/Pauljerry.jpg)
 
 4.K.F.145/G13(7).PAULJERRY 28.7.1963[4.T.F.138]married Bindhu B.Sc, daughter of Francis and Betty of Kadakuthumparambil Mattamchery Cochin. This family is settled in NewYork.
 

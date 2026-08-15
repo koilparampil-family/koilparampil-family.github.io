@@ -38,7 +38,7 @@ G.12.
 4.  Annai.
 5.  Delcy1982.
 
-![k k ouseph](images/d/d6/K_k_ouseph.jpg) [Mr.& Mrs. K.K.JOSEPH(OUSEPH)](http://gallery.bizhat.com/)
+![k k ouseph](images/d/d6/K_k_ouseph.jpg) Mr.& Mrs. K.K.JOSEPH(OUSEPH)
 
 2.K.F.51/G11(3) K.K.JOSEPH(OUSEPH) [2.T.F. 48] married Marykutty(Tessy) daughter of Joseph Malayathara, Eravimangalam at Nedumbracadu, Cherthala.
 

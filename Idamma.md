@@ -10,4 +10,4 @@
 
 Victor and Baby, Anchuthykkal South Chellanam.
 
-![thankachan family](images/1/14/Thankachan_family.jpg) [Thankachan Family](http://gallery.bizhat.com/)
+![thankachan family](images/1/14/Thankachan_family.jpg) Thankachan Family

@@ -1,7 +1,5 @@
 # Branch 3
 
-[Gallery](http://gallery.bizhat.com/showgallery.php?ppuser=19920&username=koilparampil)
-
 ---
 
 [Vathan](Vathan_branch_3-2.md)--\> Thommy

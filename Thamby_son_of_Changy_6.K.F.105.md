@@ -83,13 +83,13 @@ G.12.
 
 6.K.115/G12(1)NLAMMA 1928-1980[6.T.F.114]lived as unmarried
 
-![k j angilose](images/7/77/K_j_angilose.jpg) [Click On Click->](http://gallery.bizhat.com)
+![k j angilose](images/7/77/K_j_angilose.jpg)
 
 6.K.116/G12(2).K.J. ANGILOSE 1929-1990 [6.T.F.114] Lived as bachelor (Photo in sitting pose).
 
 6.K.117/G12(3) SUSANNA 1930 [6.T.F.114] is a unmarried
 
-![willom](images/2/23/Willom.jpg) [Click On Click->](http://gallery.bizhat.com)
+![willom](images/2/23/Willom.jpg)
 
 6.K.F.118/G12(4).K. J. WILLOM 1931 [6.T.F.114] married Alphonsa daughter of Pawly and Mary Vadckethalackal, Kumbalangi.
 

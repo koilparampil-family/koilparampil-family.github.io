@@ -16,11 +16,11 @@ G12.
 1.  Osburga(Velgama)died due to Typhoid 1924-1943
 2.  Kunjappan(Ignatious) (K.F.107)
 
-![kunjappan1](images/3/3d/Kunjappan1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-4/p220838-kunjappan.html)
+![kunjappan1](images/3/3d/Kunjappan1.jpg)
 
 4.K.F.107/G12(1) 2,KUNJAPPAN(Ignatious) B.Sc.born on 31st.July 1927 died of Intestine cancer on 21st.July 1984. [4.T.F.106] He married Thanka-ratnam annie Lawrence from Cylon
 
-![kunjappan family1](images/f/fb/Kunjappan_family1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-4/p220840-kunjappan-family.html)
+![kunjappan family1](images/f/fb/Kunjappan_family1.jpg)
 
 G13.
 
@@ -39,7 +39,7 @@ Daughters:-
 
 4.K.F.108/1/G13(1) Reginald Nirmalakumar Coilparampil[4.T.F.107]
 
-![dishan21](images/1/1c/Dishan21.jpg) [Click On Click->](http://gallery.bizhat.com/branch-4/p220788-dishan2.html)
+![dishan21](images/1/1c/Dishan21.jpg)
 
 G14.
 
@@ -47,12 +47,12 @@ G14.
 2.  Peony is studying in Australia
 3.  Shane Completed his studies this year.
 
-![dishan1](images/9/9c/Dishan1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-4/p220787-dishan.html)
+![dishan1](images/9/9c/Dishan1.jpg)
 
 4.K.F.109/G14(1)Dishan Coilparampil CIM(Chartered Institute of Marketing) Graduate Working For JWT which is an Advertising Agency.[4.T.F.108] dishan.coilparampil@jwt.com /dishanc@gmail.com Mobile: +94 773 215529.
 
-[Dishan Photos](http://gallery.bizhat.com/g3501-branch-4.html)
+Dishan Photos
 
-![placid1](images/5/59/Placid1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-4/p220841-placid-family.html)
+![placid1](images/5/59/Placid1.jpg)
 
 4.K.F.108/2/G13(2) Placid Vimalarajan(Lives In Canada)

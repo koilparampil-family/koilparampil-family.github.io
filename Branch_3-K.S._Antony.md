@@ -2,7 +2,7 @@
 
 [Branch 3](Branch_3.md),[Branch 3-Margarita](Branch_3-Margarita.md) , [Branch 3-Gabriel](Branch_3-Gabriel.md) , [Branch 3-Mariyamma](Branch_3-Mariyamma.md) , [Branch 3-Eleeswa](Branch_3-Eleeswa.md) , [Branch 3-Cherian](Branch_3-Cherian.md) , [Branch 3-Sr Mary Beatrice](Branch_3-Sr_Mary_Beatrice.md) , [Branch 3-Joseph](Branch_3-Joseph.md) , [Branch 3-K.S. Antony](Branch_3-K.S._Antony.md)
 
-![K S Antony-](images/d/d2/K_S_Antony-.jpg) [Mr.& Mrs. K.S.Antony](http://gallery.bizhat.com/branch-3/p212794-k-s-antony.html)
+![K S Antony-](images/d/d2/K_S_Antony-.jpg) Mr.& Mrs. K.S.Antony
 
 **K.S.Antony**
 

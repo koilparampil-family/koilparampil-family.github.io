@@ -1,7 +1,5 @@
 # Branch 2
 
-[Gallery](http://gallery.bizhat.com/showgallery.php?ppuser=19920&username=koilparampil)
-
 ---
 
 [Cheriyan](Cheriyan_Branch_2.md)--\> Mary , [K.C. Ouseph](K.C._Ouseph_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Pyely](K.C.Pyely_son_of_Cheriyan_2.K.F.1-2.md) , [K.C.Cheriyan](K.C.Cheriyan_son_of_Cheriyan_2.K.F.1-2.md) , [K.C. Varkey](K.C._Varkey_son_of_Cheriyan_2.K.F.1-2.md) , [K.C. Antony](K.C._Antony_son_of_Cheriyan_2.K.F.1-2.md)

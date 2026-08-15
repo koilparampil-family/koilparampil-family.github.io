@@ -29,9 +29,9 @@ G 13.
 
 3.K.F.118A/G12(1) Pamela married Adv. Joseph Thomas BA,LLB, son of Thomas Thalanani, Thozhupadath, Chelakkara, Kelamangalam Estate, Thrissur. They have a daughter, they reside near St.Mary's Girls H.S., Cherthala. Ph : 0478-281 4731,98471 17510, (O) 281 2383.
 
-![pamela1](images/0/0b/Pamela1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p221174-advocate-joseph-thomas2c-dr-pamela.html)
+![pamela1](images/0/0b/Pamela1.jpg)
 
-![neethu advocate1](images/c/c9/Neethu_advocate1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p221173-daya-thomas.html)
+![neethu advocate1](images/c/c9/Neethu_advocate1.jpg)
 
 2nd married
 
@@ -39,7 +39,7 @@ G 13.
 
 1.  Daya Thomas (Neethu) 1990
 
-![dr annie joy1](images/6/6d/Dr_annie_joy1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p221168-mathew-kuruvilla2c-dr-annie-joy.html)
+![dr annie joy1](images/6/6d/Dr_annie_joy1.jpg)
 
 Dr. ANNIE JOY(SHEEBA)3.T.F.1171959.B.A.M.S. She is the Chief Medical Officer in Govt. Ayurvedic Hospital, Thodupuzha. She married Mathew Kuruvilla, son of C.K. Mathew and Thressiamma, Cherukunnel, Velliyamattam, Thodupuzha. He worked in Velliyamattam service co-operative bank. This family resides at Elamdesham, Thodupuzha. Ph : 0486 227 6640.
 
@@ -47,11 +47,11 @@ G 13.
 
 1.  Bichu (Mathew Kuruvilla) 12-9-1991.
 
-![majo alex1](images/a/ab/Majo_alex1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p221171-majo-alex2c-mary-margaret.html)
+![majo alex1](images/a/ab/Majo_alex1.jpg)
 
 MAJO ALEX (SHAJI)3.T.F. 11722-10-1961 after his college education at Kalamassery, St. Paul's collage and St. Michacl's college, Cherthala. He spent some time in the political field. He is now employed as Matron (male) in the Govt. special school for the deaf at Kunnamkulam. He married Mary Margaret (Laly) 5-5-1964. M.A.(Lit.), B.Ed.(H.S.A.teacher in Govt. high school), daughter of Lonan Pillai and Alaxandra, Panickaveedu, Thuravoor. She is employed in Revenue Dept. at Palakkad, few months later she got reemployed as HSA teacher. They had a son and a daughter. Ph.0488-251 0757.
 
-![midhun1](images/4/42/Midhun1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p221172-alex-midhun2c-annie-neema.html)
+![midhun1](images/4/42/Midhun1.jpg)
 
 G 13.
 

@@ -1,6 +1,6 @@
 # K.A. Varghese (Eugene Varghese / Kochappan)
 
-![k a varghese](images/1/1c/K_a_varghese.jpg) [Mr.& Mrs. K.A.VARGHESE](http://gallery.bizhat.com/branch-3/p212795-k-a-varghese.html)
+![k a varghese](images/1/1c/K_a_varghese.jpg) Mr.& Mrs. K.A.VARGHESE
 
 3.K.F. 261/G11(4). K.A.VARGHESE (Eugin Varghese/KOCHAPPEN)[3.T.F.254] 24-Apr-1939 (Monday) to 21-Jan-2012 (Saturday). Did the education at Pallithode, North Chellanam, Arthunkal and Thuravoor. After education, joined the military service, as Radar operator and then as the Wireless operator in the anti-aircraft Regiment (at the same time took the Diploma in applied Electronics). After the Participation in the Indo-Pak war in 1965 in 32nd independent Brigade at the Beas area in Punjab, and returned home after getting the discharge. On 10th June 1967, got employment in Cominco Binani Zinc Ltd (now the name is Binani Industries Ltd) and retired on 30th April 1998 and resides in the Thravad house, Arthunkal. On 29th Oct 1969 Wednesday, married Philomina (Nancykunju) 15.4.1946 daughter of P.D.Bastin teacher (Kochu sir) and Mary (daughter of Xavier and Thankamma, Arasarkadavil at Vadackal, Alappuzha) of Puthenpurakal, Arthunkal. Nancykunju was worked as a Hindi teacher (H.S.A.) at St.Francis Assisi H.S.S. Arthunkal and retired on 31st March 2001. Ph. 0478- 2573334, 350 4412.
 

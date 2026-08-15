@@ -57,7 +57,7 @@ G.14.
 1.  Serjey 1998.
 2.  Celin 2000.
 
-![fr.joseph vattathara](images/5/5a/Fr.joseph_vattathara.jpg) [2.K.8-Rev. Fr.Joseph Vattathara](http://gallery.bizhat.com/)
+![fr.joseph vattathara](images/5/5a/Fr.joseph_vattathara.jpg) 2.K.8-Rev. Fr.Joseph Vattathara
 
 2.K.8/G12 (3).Rev. Fr.Joseph Vattathara C.M.I. 1944. Now he is in West Germaney [2.T.F.4].
 

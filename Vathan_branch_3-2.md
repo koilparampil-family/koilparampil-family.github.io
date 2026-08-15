@@ -63,7 +63,7 @@ G11.
 1.  P.S.William
 2.  Augastha.
 
-![k s antony1-](images/0/03/K_s_antony1-.jpg) [Gallery->](http://gallery.bizhat.com/branch-3/p212794-k-s-antony.html)
+![k s antony1-](images/0/03/K_s_antony1-.jpg)
 
 3.Pn.F.54/G10(2)P.R.SAMUEL 3.F.A.[3.T.F.52] lived as bachelor Died on 1970.
 

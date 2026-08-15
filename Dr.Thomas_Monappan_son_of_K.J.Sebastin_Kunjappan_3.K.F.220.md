@@ -8,13 +8,13 @@
 
 - 3.K.F.223/G12(3).**Dr. THOMAS KOILPARAMPIL BSc, MBBS, MD, DMRJ, DIM, DPE.**3.T.F.220 is a leading Indian oncologist, specially trained in Cancer care, from Oxford, UK. Dr Thomas Koilparambil DMRT, MD, PG Diploma(PR) is an Associate Professor in the Department of Oncology and also as the consultant in Cancer pain management at the Regional Cancer Center, Thiruvananthapuram. He is also one of the Chief Editors of Austral-Asian Journal of Cancer.
 
-![24157](images/b/b9/24157.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220038-dr-thomas-family.html)
+![24157](images/b/b9/24157.jpg)
 
 He had received gold medal and state merit during his academic pursuit. Before he joined in Govt. service he had started a Hospital in his native village which received the praise of the whole village. He married **Dr. Rita, MBBS, DCP** daughter of John Cruz and Agnes Cruz of Mundakkal, Kollam. She is working as the bacteriologist at the state TB center, Thiruvananthapuram. The family is settled at Thiruvananthapuram.
 
 **Address :** Dr. THOMAS KOILPARAMBIL MD, 13/1606 (1), Christmas, Burma Road, Kumarapuram, Medical college P.O, Thiruvananthapuram Pin: 695011. Ph: 0471 2445370 /4238/98470 65370. E-Mail : irpcasia@md4.vsnl.net.in .
 
-![john1](images/3/3b/John1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220035-john2c-dr-liza2c-ann.html)
+![john1](images/3/3b/John1.jpg)
 
 **Children**
 
@@ -24,4 +24,4 @@ He had received gold medal and state merit during his academic pursuit. Before h
 
 Liza's wedding
 
-![liza1](images/9/93/Liza1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220036-dr-liza.html)
+![liza1](images/9/93/Liza1.jpg)

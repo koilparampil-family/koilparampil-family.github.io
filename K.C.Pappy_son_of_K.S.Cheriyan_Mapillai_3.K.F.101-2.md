@@ -9,7 +9,7 @@
 
 ## K.C.JOSEPH (PAPPY)
 
-![k c pappy1](images/d/d4/K_c_pappy1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219875-k-c-pappy-2csaramma.html)
+![k c pappy1](images/d/d4/K_c_pappy1.jpg)
 
 3.K.F.190/G11(3).**K.C.JOSEPH (PAPPY)** 3.T.F.182 13-1-1920 He had his primary schooling at Arthunkal. He matriculated from Elthureth High school Thrissur. After his intermediate from St.Joseph college Thiruchirappally he discontinued His studies. He was more Interested in mechanical works. He took a mechanical diploma. He married Saramma daughter of David and Mariyamma , Karkayil house of Nort Pallipuram (now residing at Valiya Veliyil, Thiruvanathapuram.) Sarramma retired from the telephone department and died on 9-11-1986 at the age of 64.
 
@@ -19,11 +19,11 @@ G.12.
 2.  Chori.
 3.  Ramola.
 
-![sabu kp1](images/0/08/Sabu_kp1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219927-sabu.html)
+![sabu kp1](images/0/08/Sabu_kp1.jpg)
 
 SABU(SEBASTIN) Saabu manages home hold affairs.
 
-![chori1](images/e/e4/Chori1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p220027-chori-pappy.html)
+![chori1](images/e/e4/Chori1.jpg)
 
 CHORI 3.T.F.190 works as a high pressure welder in Saudi Arabia .He married Kunjumol (Tressa)B.Com.(teacher) daughter of V.T.George and Agnus(Annamma) Valiyaparampil, at Thiruvalla. the family settled at Ambathoor, Balaji street Madras.Ph.044 652 2736
 

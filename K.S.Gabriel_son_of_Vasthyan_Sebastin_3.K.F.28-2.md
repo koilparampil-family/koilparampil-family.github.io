@@ -9,17 +9,17 @@
 
 ## K.S.GABRIEL
 
-![k s gabriel1](images/5/55/K_s_gabriel1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219282-k-s-gabriel26amp-3b-barbara.html)
+![k s gabriel1](images/5/55/K_s_gabriel1.jpg)
 
 3.K.F.101/G10(2)**K.S.GABRIEL** 1876 - 14.1.1954. 3.T.F.28&51 born on 15th March 1876 (1051 Meenam 1) as the eldest son of Koilparampil Vasthyan (Sebastian) and Anna. After matriculating from St.Berchman's School, at Changanachery, he spent most of his time assisting his father in managing house hold affairs. In 1905 he married Barbara, daughter of "Velutha Vasthyan", belonging to Parayakattil family Pallithode. Unfortunately the bride died due to the certain illness after two years. In this marriage, no issues. Later in 1910, he remarried Annamma, daughter of John and Mary, Kunnel (Palackal), Manassery. In this marriage they had four sons and a daughter. In 1915 KS Gabriel founded a moral reformation Society at Arthunkal named "Sanmarga Parishkara Sangham". Rev.Fr. Sebastian L.C.B.D. presentation was the President, K.S.Gabrial was its vice president. The main aim of this Sangham was the abolition of liquor and religious reforms. And also he was the President of the "Nazarani Bhooshana Samajam" of today.
 
-![k.s.gabriel-house1](images/0/02/K.s.gabriel-house1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219263-k-s-gabriel-hhouse.html)
+![k.s.gabriel-house1](images/0/02/K.s.gabriel-house1.jpg)
 
-![Sreemoolam1](images/6/66/Sreemoolam1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219294-sreemoolam.html)
+![Sreemoolam1](images/6/66/Sreemoolam1.jpg)
 
 He played a remarkable role in raising the awareness of the Latin Christaians in this regard. While working as the administrator (Kaikaran) of St. Andrew's church, he supervised the digging of the canal (Puthenthodu) for bringing the raw materials and Rubles for construction of church building. The foundation of the new church was also built during this period.
 
-![Prajasabha1](images/f/f3/Prajasabha1.jpg) [V.J.T. Hall 2004 ->](http://gallery.bizhat.com/branch-3/p219292-prajasabha.html)
+![Prajasabha1](images/f/f3/Prajasabha1.jpg) V.J.T. Hall 2004
 
 In those days in order to cast a vote in the "Travancore Sree-Moolam-Thirunnal Praja Sabha", one must be a land owner who pays a casual tax of Rs.100/- it was reduced to Rs.25/- the main families of Arthunkal determined the candidate from the Cherthala constituent assembly. As such case K.S.Gabriel and his brothers had the right to cast their votes in the Prajasabha the following members are voters they are :
 
@@ -49,7 +49,7 @@ In those days in order to cast a vote in the "Travancore Sree-Moolam-Thirunnal P
 
 Once when Gabriel was the administrator, he invited Divan M.E.Watts to Arthunkal and it was owing to his tireless efforts that the Cherthala - Arthunkal road, which then ended at Chambakad was extended via the church premises to the beach. He was an honest man, sincere in all his dealings towards the Church as well as towards the poor fishermen of the place. In his trusteeship period the arch bridge was built across the ARTHUNKAL CANAL (Valiya thode)under the supervision of a Tamil Mason named Varghese, he was accustomed to wear 'Kavi clothes'. In order to prove the strength of the bridge Varghese Mason made an elephant-walk over the bridge while he stood under it. He did a great deal for the public good. He breathed his last on 14th Jan 1954. His wife Annamma died on 25th Nov 1964.
 
-![gabriel-son](images/e/ea/Gabriel-son.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219266-k-g-kunjappan2c-k-g-kuttappan2c-k-g-kunjukunju2c-k-g-baby-john.html)
+![gabriel-son](images/e/ea/Gabriel-son.jpg)
 
 G.11.
 

@@ -9,11 +9,11 @@
 
 ## K.C.THOMAS(UOMMACHAN)
 
-![k c ummachan1](images/5/51/K_c_ummachan1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219878-k-c-ummachan-2crose-delima.html)
+![k c ummachan1](images/5/51/K_c_ummachan1.jpg)
 
 3.K.F.212/G11(9)**UOMMACHAN(3.K.C.THOMAS)**3.T.F.182 (8.9.1934-29.10.1989). After his schooling at Arithunkal he under took photography as his profession. He married Rose Delima (Kusumum) B.Sc.B.Ed. daughter of Augustine Aneclete and Kunjamma, Kurishinkal Chavara,Kollam who were formerly residing at Kochi.
 
-![k c ummachan-hous1](images/4/40/K_c_ummachan-hous1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219877-uommachan-house.html)
+![k c ummachan-hous1](images/4/40/K_c_ummachan-hous1.jpg)
 
 They have Three sons and two daughters.K.C.Ummachan was a born sculptur. He erected several artistic models in plaster of paris and in cement and won Everybody's approval at the age of fifty five he died of high blood pressure. Kusumum was high school teacher and Later became head mistess. After her retirement she spends her time in social service and building up morel values Ph.0478 257 22 86
 
@@ -38,7 +38,7 @@ G.13.
 
 1.  Brian Antony Kalathiveettle. 28-2-1999.
 
-![sudeep1](images/c/c9/Sudeep1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219936-sudeep.html)
+![sudeep1](images/c/c9/Sudeep1.jpg)
 
 3.K.F.215/G12(4). JOSEPH SEBASTIN ANECLETE(SUDEEP)3.T.F.212. After his studies, he got training in photography from his father, after the death of his father he took charge the photo studio, inaddition to he handles Vediography, Photostate and Photo-laminlation. He married Resmi.B.Sc.B.Ed.(teacher) 25-9-1974 daughter of P.R.J.M.Das and Alphonsa, Puthenpurackal, Kalavoor.
 
@@ -46,7 +46,7 @@ G.13.
 
 1.  Calwin Sudeep 5-3-1999.
 
-![sunija1](images/7/72/Sunija1.jpg) [Click On Click->](http://gallery.bizhat.com/branch-3/p219937-sunija.html)
+![sunija1](images/7/72/Sunija1.jpg)
 
 3.K.F.216/G12(5). JAIDEEP OOMMEN(THOMAS THEDEVUS)3.T.F.2127-8-1976. He is working in M/s.Max Power Project Address :-113/B,Arjun Nagar,Safdarjung Enclave, New Delhi. He married Sunija B.Com., daughter of P.A. Kunjappu and Mary James (H.S.A.) of Pareakattil, Arthunkal P.O.,Cherthala.Ph. :-(O)616 2172, (R) 616 1014.G.13.1, .
 
