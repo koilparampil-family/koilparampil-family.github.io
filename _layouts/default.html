@@ -91,6 +91,25 @@
     padding: 32px 34px 80px;
   }
   main :first-child { margin-top: 0; }
+
+  /* "Edit this page" sits above the heading, right-aligned, on every page.
+     It is the whole point of moving the wiki here: anyone can fix a date or
+     add a grandchild without asking permission. */
+  .pagebar { display: flex; justify-content: flex-end; margin-bottom: 2px; }
+  .edit {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 11px;
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    font-size: 13px;
+    color: var(--muted);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .edit::before { content: "\270E"; font-size: 14px; }
+  .edit:hover { color: var(--link); border-color: var(--link); }
   h1, h2, h3, h4 { line-height: 1.25; margin: 1.6em 0 .6em; }
   h1 { font-size: 1.9em; }
   h2 { font-size: 1.4em; border-bottom: 1px solid var(--rule); padding-bottom: .3em; }
@@ -184,6 +203,15 @@
   </aside>
 
   <main>
+    {%- if site.repository and page.path %}
+    <div class="pagebar">
+      <a class="edit"
+         href="https://github.com/{{ site.repository }}/edit/{{ site.branch | default: 'main' }}/{{ page.path }}"
+         title="Anyone with a free GitHub account can correct or add to this page">
+        Edit this page
+      </a>
+    </div>
+    {%- endif %}
     {{ content }}
   </main>
 
