@@ -1,26 +1,68 @@
 # History Part 2(History of Koilparampil (Coilparampil) Family - Part 2)
 
-Historians interpret the name Arthunkal differently. One version is that the thatched chapel built initially was at Arthikulangara and later the name was modified as Arithikulangal and Arthunkal. Another version is that the "Siva" temple of the Puliankottu family used to conduct the 'Arattu Ulsav (procession of festival) every year. The distance from the temple to the sea where Arattu was conducted came to be known as Arattunkal and later became Arthunkal. The third interpretation put forward by the historian and scholar Shurhamer is that this place was the capital of the small kingdom 'Moothedathu', called Moothedathunkal, gradually Moothdathunkal became Edathunkal, which in course of time got modified into Arthunkal.
+## Arthunkal and the Koilparampil Family
 
-Second church built in Cherthala taluk was at Manapuram (Pallippuram). The Marthoma (Chaldaic Christians) at Arthunkal used to go there for their religious rites. When the Cherthala Muttom church was founded in 1023, they stopped going to Pallippuram and went to Muttom church instead, as it was comparatively nearer. It is recorded in the history of the Muttom parish that certain members of the Koilparampil family had been the trustees of the Muttom church. Rev.Fr. Dominic Koikara, of Kanjoor, who was the vicar of Muttom church was also, mentioned this fact in an incident. Years before Mr. Mathew M.Panat in his book, 'Irulile Rajatharekha' wrote that certain families of the Arthunkal parish were claimed to be the former members of the Muttom church. In 1579 when the Muthedathu, Elayidathu ruler gave permission to build churches. **Thus the forefathers of the Koilparampil family built a thatched chapel of the Muttom Church, facing north in the name of St. Thomas**. There they kept the Holy cross and the statue of St. Thomas and began worship (This particular statue of St. Thomas is kept in the south alter, in the new church). Later in this chapel, the Sunday mass was conducted by Muttom church Priests.
+The origin of the name Arthunkal has been interpreted in different ways by historians.
+
+One explanation suggests that the first Christian chapel in the area was a thatched structure built at Arthikulangara. Over time, the name is believed to have evolved from Arthikulangara to Arithikulangal and eventually to Arthunkal.
+
+A second interpretation associates the name with the annual Arattu (ritual procession and ceremonial sea bath) conducted by the Puliankottu family's Shiva temple. The stretch of land between the temple and the seashore, where the Arattu ceremony was performed, came to be known as Arattunkal, which is believed to have gradually evolved into Arthunkal.
+
+A third explanation, proposed by the historian Fr. Georg Schurhammer, suggests that this area was once the capital of the small kingdom of Moothedathu. According to this view, the place was originally known as Moothedathunkal, which later became Edathunkal and, in the course of time, Arthunkal.
+
+The second church established in the present-day Cherthala Taluk is believed to have been at Manappuram (Pallippuram). In the early centuries, the St. Thomas (Marthoma/Chaldean) Christians of Arthunkal are said to have travelled there for the celebration of the Holy Qurbana and other religious services.
+
+When St. Mary's Church, Muttom, was founded in AD 1023, the Christians of Arthunkal began attending worship there, as it was geographically closer than Pallippuram.
+
+The history of the Muttom parish records that members of the Koilparampil family served as trustees of the church. This tradition was also reportedly confirmed by Rev. Fr. Dominic Koikara of Kanjoor during his tenure as Vicar of Muttom Parish. Likewise, Mr. Mathew M. Panat, in his book Irulile Rajatharekha, mentions that certain families of Arthunkal originally belonged to the Muttom parish.
+
+According to family tradition, in AD 1579, after the local ruler of the Moothedathu–Elayidathu principality granted permission for the construction of churches, the forefathers of the Koilparampil family built a small thatched chapel dedicated to St. Thomas the Apostle. The chapel, which faced north, housed a Holy Cross and a statue of St. Thomas. It is believed that this same statue is now preserved in the southern altar of the present church.
+
+In the years that followed, priests from Muttom Church regularly celebrated Sunday Mass in this chapel.
 
 ![st thomas](images/2/2f/St_thomas.jpg)
 
-Later by the arrival of the Portuguese in 1581, the Portuguese Bishop Dom Matheeus Demadina built a church which is made of wood in the name of 'Santhanthraos' in the place of the thatched chapel, and entrusted its administration to the Koilparampil family. This is handed down by generations even to this day. So the family members were compelled to conform to the Latin rite. Bishop Michael Arattukulam in his booklet "St. Francis on the Malabar coast" page 16 speaks about the adoption of the Latin Rite. The foundation of the above mentioned church was mentioned in the book 'A peep into the history of the Cochin diocese by Fr.Joseph Naduathumuri. And in another book 'Kerala Rajyathile Satyaveda Charithram' by Maseleenus, the church made of wood and Palm leaves is mentioned (page 80). Rev. Fr. Paul Arackal in his book 'Arthunkal Veluthachan' has mentioned about the Marthoma Christians of Arthunkal who worshiped St.Thomas, centuries ago in Page 9.
+## The Early Church
 
-When St. Francis Xavier arrived at Goa in 1540, he converted many of the native's into Christians. When he came to Kerala he avoided the area from Kochi to Purakkat from his mission work. Perhaps it was because of the Marthoma Christians who inhabited these areas. The Portuguese missionaries established "Santharthre mission" and forced the Marthomite Christians to accept the Latin rite. In 1590, Fr.Finiceo built a Church of stone, later in 1640 Fr. Fossaseka rebuilt it facing towards west.
+Following the arrival of the Portuguese, Bishop Dom Mateus de Medina is believed to have replaced the thatched chapel with a wooden church dedicated to San Thome (St. Thomas). According to long-standing family tradition, the administration of this church was entrusted to the Koilparampil family, a responsibility remembered by successive generations.
+
+With the establishment of Portuguese ecclesiastical authority, the local Christians gradually came under the Latin Rite. Bishop Michael Arattukulam, in his booklet St. Francis on the Malabar Coast (p.16), refers to this transition.
+
+The construction of this early church is also mentioned in A Peep into the History of the Cochin Diocese by Fr. Joseph Naduathumuri, while Kerala Rajyathile Satyaveda Charithram by Maselenus (p.80) describes it as a structure built of timber and palm leaves.
+
+Similarly, Rev. Fr. Paul Arackal, in his book Arthunkal Veluthachan (p.9), writes about the St. Thomas Christians of Arthunkal and their early devotion to St. Thomas the Apostle.
+
+Although St. Francis Xavier arrived in Goa in 1542 and carried out extensive missionary work along the western coast of India, it has been suggested that he undertook little missionary activity in the region between Cochin and Purakkad, possibly because established St. Thomas Christian communities already existed there.
+
+The Portuguese missionaries subsequently established the San Thome Mission at Arthunkal and encouraged the local St. Thomas Christians to adopt the Latin Rite.
+
+According to available records, Fr. Fenicio constructed a stone church in 1590, and in 1640 Fr. Francisco rebuilt it with its sanctuary facing west.
 
 ![Arthunkal Old Church vak](images/a/ab/Arthunkal_Old_Church_vak.jpg)
 
 ![F 105a](images/0/0b/F_105a.jpg)
 
-In 1647, the statue of St.Sebastian was placed. In 18th century, the church was taken charge by Carmelite missionaries from Jesuit missionaries.
+## Development of Arthunkal Church
+
+In 1647, the statue of St. Sebastian, which later became world-renowned, was installed in the church.
+
+During the eighteenth century, the administration of the parish passed from the Jesuit Missionaries to the Carmelite Missionaries.
 
 ![Cha](images/a/af/Cha.jpg)
 
-During the Carmelite service on 29th November 1829, blessed Chavara Kuriyakose Ealiyas was ordained by Rt.Rev.Dr. Stabalini, the Bishop of Verapoly, who was residing at St.Andrew's church, Arthunkal. Thence forward a multitude of people visit the Church especially during the feast of the Saint Sebastian to share his blessings. As the worshipers increased in number, so did the income of the Church. The increasing income provoked the Portuguese representative and his assistants to do some misdealing in money matters. The natives, Koilparampil, Puthenpurackal, Charankattu and Arackal families threw them out, and in 15 Nov 1866, they built another Church. Such is the history of Arthunkal.
+A notable event in the church's history occurred on 29 November 1829, when Blessed Kuriakose Elias Chavara was ordained to the priesthood by Rt. Rev. Dr. Francesco Stabili, Bishop of Verapoly, at St. Andrew's Church, Arthunkal.
 
-I am not of the opinion that I have written this book after closely examining all the historical manuscripts. I have written this on the basis of some of the manuscripts available. If anybody is willing to furnish more details, I am ready to make sufficient changes in any further editions.
+From that time onward, increasing numbers of pilgrims visited Arthunkal, particularly during the annual Feast of St. Sebastian, seeking the saint's intercession and blessings.
+
+As the number of pilgrims increased, so did the church's income. According to local tradition, disputes later arose regarding the administration of church finances by representatives of the Portuguese ecclesiastical authorities. Members of the Koilparampil, Puthenpurackal, Charankattu, and Arackal families are said to have opposed these practices, and on 15 November 1866, they built another church.
+
+This, in brief, is the historical background of Arthunkal as it relates to the Koilparampil family.
+
+## Author's Note
+
+This work does not claim to be the result of an exhaustive examination of all available historical manuscripts. Rather, it is based on the historical records, published works, oral traditions, and manuscripts that were accessible to the author at the time of writing.
+
+The author would welcome additional authentic information or documentary evidence that may help improve the accuracy of this account. Constructive corrections and supplementary material will be gratefully acknowledged and incorporated in future editions wherever appropriate.
 
 --------
 
