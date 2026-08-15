@@ -258,12 +258,17 @@ th { border-bottom: 2px solid var(--gold); font-weight: 600; color: var(--ink); 
 tbody tr { transition: background-color .15s ease; }
 tbody tr:hover { background: var(--gold-soft); }
 
-/* Gold drop cap on the front page only. */
-body.home .page > p:first-of-type::first-letter {
-  float: left;
-  font: 700 3.4em/0.82 var(--serif);
-  color: var(--gold);
-  padding: .06em .14em 0 0;
+/* The opening line of the front page. There used to be a gold drop cap here.
+   It needed two or three lines of text to nest against, and this sentence is
+   only one line on a desktop screen -- so the letter hung below the line with
+   nothing beside it. It read correctly only on a phone, where the sentence
+   wraps. A centred lede works at every width instead. */
+body.home .page > p:first-of-type {
+  text-align: center;
+  font: italic 400 1.15em/1.6 var(--serif);
+  color: var(--muted);
+  max-width: 34rem;
+  margin: 0 auto 2.2em;
 }
 
 .footer {
