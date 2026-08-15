@@ -52,6 +52,11 @@
   --ui: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --serif: 'Linux Libertine', Georgia, 'Times New Roman', Times, serif;
   --glass: rgba(255, 255, 255, .7);
+  /* The one blue on an otherwise gold-and-paper page: it belongs to the edit
+     button alone, so "you can change this" is never mistaken for decoration. */
+  --blue: #1d4ed8;
+  --blue-hover: #1e40af;
+  --blue-ring: rgba(29, 78, 216, .35);
   --shadow-sm: 0 1px 2px rgba(23, 23, 23, .05), 0 1px 3px rgba(23, 23, 23, .06);
   --shadow: 0 2px 4px rgba(23, 23, 23, .05), 0 12px 32px rgba(23, 23, 23, .08);
 }
@@ -68,6 +73,9 @@
     --link: #e0bd5f;
     --on-ink: #0c0c0b;
     --glass: rgba(20, 20, 18, .55);
+    --blue: #2563eb;
+    --blue-hover: #3b82f6;
+    --blue-ring: rgba(96, 165, 250, .45);
     --shadow-sm: 0 1px 2px rgba(0, 0, 0, .45), 0 1px 3px rgba(0, 0, 0, .55);
     --shadow: 0 2px 4px rgba(0, 0, 0, .45), 0 12px 32px rgba(0, 0, 0, .5);
   }
@@ -168,20 +176,41 @@ main { max-width: 1080px; margin: 0 auto; padding: 32px 40px 40px; }
 .page :first-child { margin-top: 0; }
 
 .pagebar { display: flex; flex-direction: column; align-items: center; gap: 14px; margin-bottom: 34px; }
+
+/* The edit button floats above the page rather than sitting in the header.
+   It used to be a quiet outlined pill next to the search box, where it read as
+   part of the furniture; a family member skimming a relative's page never
+   noticed the site was theirs to correct. Now it stays in the bottom corner
+   for the whole scroll, in the page's only blue, so the invitation is visible
+   at the moment a reader spots something wrong -- wherever they are in the text. */
 .edit {
+  position: fixed; right: 24px; bottom: 24px; z-index: 45;
   display: inline-flex; align-items: center; gap: 9px;
-  padding: 10px 22px; border-radius: 999px;
-  border: 1px solid var(--rule);
-  background: var(--glass);
-  backdrop-filter: blur(10px);
-  -webkit-backdrop-filter: blur(10px);
-  color: var(--ink); font: 500 13.5px/1 var(--ui);
-  text-decoration: none; box-shadow: var(--shadow-sm);
-  transition: border-color .18s ease, box-shadow .18s ease, background-color .18s ease;
+  padding: 14px 22px; border-radius: 999px;
+  border: 0;
+  background: var(--blue);
+  color: #fff; font: 600 14px/1 var(--ui);
+  text-decoration: none;
+  box-shadow: 0 4px 10px rgba(23, 23, 23, .12), 0 12px 28px var(--blue-ring);
+  transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease;
 }
 .edit svg { flex: none; }
-.edit:hover { border-color: var(--gold); background: var(--gold-soft); box-shadow: var(--shadow); }
-.edit:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+.edit:hover {
+  background: var(--blue-hover); color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(23, 23, 23, .16), 0 18px 38px var(--blue-ring);
+}
+.edit:focus-visible { outline: 3px solid var(--blue-ring); outline-offset: 3px; }
+
+/* A single rise on arrival draws the eye once, then leaves it alone. It moves
+   the button's own "bottom" rather than transforming it: an animation with
+   fill "both" holds its final transform forever, which would silently cancel
+   the lift on hover. Readers who ask for reduced motion get neither. */
+@keyframes edit-in {
+  from { opacity: 0; bottom: 6px; }
+  to   { opacity: 1; bottom: 24px; }
+}
+.edit { animation: edit-in .45s .5s ease-out both; }
 
 /* Headings sit at normal weight, as they do on Wikipedia. The old bold-600 and
    negative tracking existed to hold Playfair together; a Times-like serif is
@@ -310,7 +339,13 @@ body.home .page > p:first-of-type {
   .search-results { left: 0; transform: none; width: 100%; min-width: 0; }
   main { padding: 44px 20px 20px; }
   h1 { font-size: 1.9rem; }
-  .footer .inner { padding: 32px 20px 40px; }
+  /* Room under the last line so the floating button never sits on top of it. */
+  .footer .inner { padding: 32px 20px 96px; }
+  .edit { right: 16px; bottom: 16px; padding: 13px 18px; font-size: 13.5px; }
+  @keyframes edit-in {
+    from { opacity: 0; bottom: 4px; }
+    to   { opacity: 1; bottom: 16px; }
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -362,17 +397,24 @@ body.home .page > p:first-of-type {
                aria-controls="search-results" aria-autocomplete="list">
         <ul class="search-results" id="search-results" role="listbox" aria-label="Search results"></ul>
       </div>
-      <a class="edit"
-         href="https://github.com/{{ site.repository }}/edit/{{ site.branch | default: 'main' }}/{{ page.path }}"
-         title="Anyone with a free GitHub account can correct or add to this page">
-        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>
-        Edit this page
-      </a>
     </div>
     {%- endif %}
     {{ content }}
   </div>
 </main>
+
+{%- comment -%}
+  The edit button sits outside main so it is not laid out with the article: it
+  is fixed to the corner of the window and follows the reader down the page.
+{%- endcomment -%}
+{%- if site.repository and page.path %}
+<a class="edit"
+   href="https://github.com/{{ site.repository }}/edit/{{ site.branch | default: 'main' }}/{{ page.path }}"
+   title="Anyone with a free GitHub account can correct or add to this page">
+  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20h9"/><path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"/></svg>
+  Edit this page
+</a>
+{%- endif %}
 
 <footer class="footer">
   <div class="inner">
