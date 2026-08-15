@@ -366,7 +366,6 @@ All 547 pages in the archive, in alphabetical order.
 ### H
 
 - [Hershan (son of Anthappan)](Hershan_son_of_Anthappan.md)
-- [History of Koilparampil (Coilparampil) Family - Part 2](History_of_Koilparampil_Coilparampil_Family_-_Part_2.md)
 - [History Part 2(History of Koilparampil (Coilparampil) Family - Part 2)](History_Part_2_History_of_Koilparampil_Coilparampil_Family_-_Part_2.md)
 
 ### I
