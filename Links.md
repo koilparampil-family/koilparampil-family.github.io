@@ -16,10 +16,9 @@
 
 ## Mail
 
-- [BizHat Mail](http://mail.bizhat.com)
-- [Gmail](http://gmail.com)]
+- [Gmail](http://gmail.com)
 
 ## Business
 
-- [Web Hosting FlashWebHost](http://www.flashwebhost.com/)
-- [Web Hosting HostOnNet](http://hostonnet.com/)
+- [Web Hosting HostHat](https://HostHat.com/)
+- [Web Hosting HostOnNet](https://hostonnet.com/)
